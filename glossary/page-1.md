@@ -220,8 +220,97 @@ Distributed Network A network where information is dependent on multiple sources
 
 Double-Spend An attack where a set of coins or a coin is spent in more than one transaction which creates new coins that didn’t exist prior.&#x20;
 
-Dump A sudden sell-off of digital assets.\
-\
+Dump A sudden sell-off of digital assets.
+
+ELI5 (Explain Like I’m Five) A request for a basic explanation.&#x20;
+
+Emission The production rate of new coins.&#x20;
+
+Encryption The process of turning data into a code.&#x20;
+
+Enterprise Blockchain Distributed ledger technology, private or public, tailored to the specific needs of businesses.&#x20;
+
+ERC-20 A standard for Ethereum-based tokens.&#x20;
+
+Event Triggers A process that activates an event to trigger a smart contract.\
+
+
+Exchange A platform where it is possible to trade cryptocurrencies for either other cryptocurrencies or fiat.&#x20;
+
+Exchange Traded Fund(ETF) A basket of securities, such as stocks, bonds, and cryptocurrencies, that tracks an underlying index and can be traded like a single stock.&#x20;
+
+Exit Scam A scam where cryptocurrency projects shut down after amassing investors’ money.&#x20;
+
+Expired License (Zinnia Specific Term) A license that has not been selected to vote during the voting period.&#x20;
+
+Explorer (Zinnia Specific Term) A member of the Zinnia community on Discord that has earned the position as an ambassador of the network.
+
+Faucet A website or app that gives out small amounts of cryptocurrency as a reward for the completion of minor tasks, like a faucet leaking small droplets of water.&#x20;
+
+Fee Tiers A fee structure that determines the amount charged when investors deposit or withdraw money and execute trades on a crypto exchange.&#x20;
+
+Fiat Traditional currency, such as USD/GBP/Euro, backed by a central government and available in physical or digital form.&#x20;
+
+Fiat On-Ramp A means to purchase cryptocurrency with fiat.&#x20;
+
+Fiat-Pegged Cryptocurrency A cryptocurrency that is linked to a government or bank-issued currency.&#x20;
+
+FOMO (Fear Of Missing Out) Anxiety that one may be missing out on an exciting opportunity for a good investment usually aroused by posts on social media.&#x20;
+
+Fork A term used to describe what happens when a blockchain has a change in protocol and nodes make separate paths forward. It can also refer to an instance where a block is mined by two or more miners at the same time. (See Hard Fork and Soft Fork)&#x20;
+
+FUD (Fear, Uncertainty, and Doubt) A pessimistic mindset relating to a particular cryptocurrency or the market as a whole caused by negative, misleading, or false information.&#x20;
+
+Full Node Software that validates all transactions and blocks fully, as opposed to trusting a 3rd party. An Abbreviation of “Fully-Validating Node”.&#x20;
+
+Fungible When an asset can be replaced by another identical asset.&#x20;
+
+Futures An agreement to buy or sell a cryptocurrency at a specified time in the future and at a predetermined price.\
+
+
+Game Theory Analyzing how groups or individuals handle competitive situations. Utilized within cryptocurrencies to determine the required conditions to prevent people from behaving in a way that could negatively impact a network.&#x20;
+
+Gardener (Zinnia Specific Term) A member of the Zinnia community on Discord.&#x20;
+
+Gas A fee on the Ethereum Network based on the cost of conducting transactions or executing smart contracts.&#x20;
+
+Gas Limit The maximum fee a user is willing to spend on an Ethereum-based transaction.&#x20;
+
+Gas Price The price you have to pay for an Ethereum-based transaction.&#x20;
+
+Genesis Block The very first block in a blockchain.&#x20;
+
+Governance People or organizations that have decision-making powers over a currency.&#x20;
+
+Governance Token A cryptocurrency token that can influence the governance of a network by being used to vote on decisions.&#x20;
+
+Graphical Processing Unit (GPU) A computer chip or graphics card that can be used to effectively mine cryptocurrency.&#x20;
+
+Gwei More Ethereum terminology, this time it refers to the denomination used in measuring the cost of gas in Ethereum transactions.
+
+Hacking The process of unauthorized manipulation of another computer or computer system.&#x20;
+
+Halving An event in which the total reward per confirmed block halves.&#x20;
+
+Hard Cap The maximum supply of a cryptocurrency.&#x20;
+
+Hard Fork A rule change where a node working according to the old rules will assess blocks produced according to the new rules as invalid. If a group of nodes continues to use the old rules a permanent split can happen. (see also Soft Fork)&#x20;
+
+Hash The result of a cryptographic hashing function that produces a fixed-size alphanumeric output from a variable-size input.&#x20;
+
+Hash Function A function that uses cryptography to produce a fixed-size alphanumeric output from a variable-size input.&#x20;
+
+Hashrate The amount of hashes per second completed by miners on a network.&#x20;
+
+Hierarchical Deterministic (HD) Wallet A wallet that is able to generate all of its keys and addresses from a single source and automatically derive a tree-like structure of public/private keypairs.&#x20;
+
+HODL (Hold On for Dear Life) Originating from a typo of the word “HOLDING” in a Bitcoin forum, HODL refers to an investment strategy where you hold an investment over a long period of time. The term is also now recognized as an acronym for “Hold On for Dear Life.”&#x20;
+
+Hot Wallet A wallet that is always connected to the internet and cryptocurrency network, for example a Proof-of-Stake wallet.&#x20;
+
+Hybrid PoW/PoS A consensus method combining the benefits of PoW and PoS to increase security and decentralization and provide the greatest overall consensus mechanism for cryptocurrencies.&#x20;
+
+Hyperledger (Hyperledger Foundation) Hyperledger is an umbrella project of open-source blockchains and blockchain-related tools started by the Linux Foundation in 2015 to support the collaborative development of blockchain-based distributed ledgers.\
 \
 \
 \
