@@ -722,6 +722,8 @@ A feeling of contentment with one’s own pursuits and activities, without worry
 
 Identity checking process that cryptocurrency exchanges and trading platforms need to complete to verify the identity of customers.
 
+## L
+
 ### Lambo&#x20;
 
 The term is used as a means of expressing excitement that cryptocurrency is going to make the user extremely wealthy. Short for Lamborghini, the Italian supercar brand.&#x20;
