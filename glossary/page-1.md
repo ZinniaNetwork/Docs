@@ -442,7 +442,75 @@ Non-Fungible Token (NFT) A financial security consisting of digital data stored 
 Nonce Derived from the term “number used once,” it refers to a field in the block header. PoW miners adjust this number to keep the hash of the block lower than or equal to the difficulty target of the network at that time.&#x20;
 
 Notarization on Blockchain A function of blockchain technology that allows anyone to timestamp a creation and secure its provenance.\
-\
+
+
+Off-Chain A transaction processed outside of a blockchain network to increase speed and decrease cost.&#x20;
+
+Off-Chain Governance A type of blockchain governance where decisions are made away from the primary codebase.&#x20;
+
+On-Chain Transactions recorded on the blockchain itself and distributed between all the users.&#x20;
+
+On-Chain Governance A type of blockchain governance where decisions are made by the primary codebase.&#x20;
+
+Open Source The sharing of information freely for the good of the community.&#x20;
+
+Oracles Software that finds and verifies information, connecting external systems to a blockchain and providing data to smart contracts enabling execution.&#x20;
+
+Orphan Block A valid block that is not included in the definitive blockchain.&#x20;
+
+Orphan Transaction A transaction with missing inputs.&#x20;
+
+Over-the-Counter (OTC) A transaction outside of an exchange, usually peer-to-peer through private trades.
+
+Peer-to-Peer (P2P) The decentralized interactions between users of a distributed network.&#x20;
+
+Peer-to-Peer (P2P) Lending The lending of assets without a third-party intermediary.&#x20;
+
+Peg A value for the rate of exchange between assets that is tied to some other medium of exchange, such as gold or fiat.&#x20;
+
+Pegged Currency A cryptocurrency whose value is fixed to a traditional asset, such as a fiat currency.&#x20;
+
+Permissioned Ledger A ledger designed with restrictions, where participants are known and authorization is required before use.&#x20;
+
+Permissionless A network that no single entity can regulate or control.&#x20;
+
+Ponzi Scheme A form of fraud where profits are paid to early investors using funds gained from new investors.&#x20;
+
+Post-Mine The creation of new coins following a cryptocurrency’s launch, before public mining is possible.&#x20;
+
+Pre-IDO Tokens offered before an initial DEX offering (IDO) takes place.&#x20;
+
+Pre-Mine The generation of a limited amount of a coin’s initial supply prior to the public launch.&#x20;
+
+Pre-Sale The sale of a cryptocurrency to investors before it goes public.&#x20;
+
+Private Blockchain A blockchain controlled by a single entity.&#x20;
+
+Private Key A cryptographic key, known only to the owner, that is used to decipher messages sent using a public key.&#x20;
+
+Private Passphrase A set of secret words known only to the owner that is often used to secure private keys.&#x20;
+
+Proof-of-Stake (PoS) Voting A consensus mechanism by which cryptocurrency holders vote to approve blocks confirmed by PoW miners and earn staking rewards.&#x20;
+
+Proof-of-Work (PoW) A consensus mechanism miners use to prove they have contributed computational power to create a new block.&#x20;
+
+Protocol A set of rules and processes that govern how a blockchain network will operate, usually covering consensus mechanism, transaction validation, and network participation.&#x20;
+
+Pseudonymous The use of a false name to protect one’s true identity, a famous example being Satoshi Nakamoto.&#x20;
+
+Public Address The cryptographic hash of a public key used as an address to send payments.&#x20;
+
+Public Blockchain A blockchain that can be accessed by anyone.&#x20;
+
+Public Key A cryptographic key available to anyone and used to encrypt messages that only the intended recipient can decipher using their private key.&#x20;
+
+Public Sale The last round of an ICO when a cryptocurrency project offers its coin to the public before it’s listed on an exchange.&#x20;
+
+Public-Key Cryptography Algorithmic cryptographic procedures used to scramble data, so it appears randomized.&#x20;
+
+Public-Key Infrastructure (PKI) A series of roles, policies, and processes used by a network to create, manage, distribute, use, store, and manage public-key encryption and revoke digital certificates.&#x20;
+
+Pump and Dump (P\&D) Scheme The use of social media to artificially inflate the value of a cryptocurrency by making false and misleading positive statements before selling to make a profit.\
 \
 \
 \
