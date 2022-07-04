@@ -597,7 +597,47 @@ Stablecoin A cryptocurrency usually pegged to fiat that offers low volatility.&#
 
 Staking Time-locking a cryptocurrency in exchange for block rewards or interest.&#x20;
 
-Store of Value A cryptocurrency that’s function is to retain its value allowing it to be saved, retrieved, and exchanged in the future without losing any purchasing power.\
+Store of Value A cryptocurrency that’s function is to retain its value allowing it to be saved, retrieved, and exchanged in the future without losing any purchasing power.
+
+Testnet A parallel network for testing purposes.&#x20;
+
+Tor (The Onion Router) Free, open-source software that allows gives users greater privacy and security when communicating over a network.&#x20;
+
+Ticker An abbreviation, usually 3-4 letters, that is used to uniquely identify a cryptocurrency.&#x20;
+
+Ticker Symbol A symbol used to uniquely identify a cryptocurrency.&#x20;
+
+Timestamp An official record of when a specific transaction occurred.&#x20;
+
+Token A layer 2 cryptocurrency designed to provide a specific utility.&#x20;
+
+Token Generation Event (TGE) The time at which a token is issued.&#x20;
+
+Token Issuance The process of creating new tokens and adding them to the total supply of a cryptocurrency.&#x20;
+
+Token Lockup A time period during which cryptocurrency tokens cannot be exchanged or traded.&#x20;
+
+Token Sale The initial offering of a cryptocurrency token to a private pool of investors before it officially goes on the market.&#x20;
+
+Token Standard Rules that a smart contract must respect to remain compatible with common standards.&#x20;
+
+Token Swap Either; The exchange of a certain amount of one token for another between users facilitated by a special exchange service. Or; The migration of a token built on top of one blockchain platform to a different blockchain.&#x20;
+
+Tokenize The process by which tangible assets are turned into something of digital value with the benefit of being easily divisible.&#x20;
+
+Tokenomics A set of rules that governs a cryptocurrency's issuance and supply.&#x20;
+
+Total Supply The total amount of coins currently in existence.&#x20;
+
+Trading Volume The total number of coins that have been exchanged during trading hours of one day.&#x20;
+
+Transaction (TX) The process of exchanging assets on a blockchain.&#x20;
+
+Transaction Fees A fee paid to have your transaction included in a block.&#x20;
+
+Treasury A storage of funds for use in the development of a project.&#x20;
+
+Two-Factor Authentication (2FA) A security measure that requires two different forms of authentication before access is granted.\
 \
 \
 \
