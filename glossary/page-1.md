@@ -310,8 +310,47 @@ Hot Wallet A wallet that is always connected to the internet and cryptocurrency 
 
 Hybrid PoW/PoS A consensus method combining the benefits of PoW and PoS to increase security and decentralization and provide the greatest overall consensus mechanism for cryptocurrencies.&#x20;
 
-Hyperledger (Hyperledger Foundation) Hyperledger is an umbrella project of open-source blockchains and blockchain-related tools started by the Linux Foundation in 2015 to support the collaborative development of blockchain-based distributed ledgers.\
-\
+Hyperledger (Hyperledger Foundation) Hyperledger is an umbrella project of open-source blockchains and blockchain-related tools started by the Linux Foundation in 2015 to support the collaborative development of blockchain-based distributed ledgers.
+
+Immutable Something that can not be changed regardless of time or energy.&#x20;
+
+Inflation ​​An increase in prices and a fall in the purchasing value of money.&#x20;
+
+Initial Bounty Offering (IBO) A method of launching a cryptocurrency project that focuses on users contributing skills to a platform rather than money.&#x20;
+
+Initial Coin Offering (ICO) A type of crowdfunding using cryptocurrencies as a means of raising capital for start-up companies.&#x20;
+
+Initial Dex Offering (IDO) An decentralized version of an initial coin offering (ICO).&#x20;
+
+Initial Exchange Offering A type of crowdfunding where cryptocurrency start-ups list on an exchange to raise capital.&#x20;
+
+Initial Farm Offering (IFO) A method that helps DeFi projects raise capital through the farming feature offered by decentralized exchanges.&#x20;
+
+Initial Game Offering (IGO) A means of raising capital for gaming project.&#x20;
+
+Initial NFT Offering (INO) A type of crowdfunding where cryptocurrencies can raise funds by listing a set of NFTs via a launchpad.&#x20;
+
+Initial Public Offering (IPO) The process of a company offering shares for purchase on the stock market for the first time.&#x20;
+
+Initial Token Offering (ITO) Similar to an ICO but geared towards offering tokens with utility.\
+
+
+Intellectual Property (IP) Intangible human creations such as books, designs, manufacturing processes, or software that can be legally protected from being copied or sold.&#x20;
+
+Internet of Things (IoT) A global interconnected network of smart devices, sensors, and software that can collect and exchange data in real-time via the internet.&#x20;
+
+InterPlanetary File System (IPFS) The InterPlatery File System is a peer-to-peer, distributed system for storing and accessing files, as well as websites and applications, which relies on content addressing rather than location.&#x20;
+
+Intrinsic Value An asset’s actual worth based on a complex financial calculation rather than its current price.&#x20;
+
+Issuance Increase in the available supply of a cryptocurrency as more coins are minted into existence through the block reward.\
+
+
+Java A general-purpose, class-based as well as object-oriented programming language.&#x20;
+
+JavaScript An advanced programming language mostly used in web-based applications.&#x20;
+
+JOMO (Joy Of Missing Out) A feeling of contentment with one’s own pursuits and activities, without worrying over the possibility of missing out on what others may be doing. The opposite state of FOMO.\
 \
 \
 \
