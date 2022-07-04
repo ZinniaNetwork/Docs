@@ -1172,251 +1172,271 @@ A simulation network that a developer can use to mine new blocks locally at will
 
 A wallet that can verify payments using only the blocks related to the addresses owned by the wallet rather than downloading the entire blockchain enabling wallets to run on less specialized hardware.&#x20;
 
-Smart Contract&#x20;
+### Smart Contract&#x20;
 
 A self-executing decentralized contract with the terms of the agreement between parties being directly written into a blockchain.&#x20;
 
-Social Engineering&#x20;
+### Social Engineering&#x20;
 
 The use of technology and media to deceive and manipulate the public into acting in a predetermined manner.&#x20;
 
-Soft Fork&#x20;
+### Soft Fork&#x20;
 
 When old nodes don’t follow a rule change and newly upgraded nodes do, the old nodes may accept data that the new nodes reject, causing a fork in the blockchain. (see also Hard Fork)&#x20;
 
-Software Stack&#x20;
+### Software Stack&#x20;
 
 A group of independent software solutions that combine to provide a specific task.&#x20;
 
-Software Wallet&#x20;
+### Software Wallet&#x20;
 
 A wallet embedded in an application that allows users to complete cryptocurrency transactions.&#x20;
 
-Solidity&#x20;
+### Solidity&#x20;
 
 The programming language used for developing smart contracts by Ethereum.&#x20;
 
-Source Code&#x20;
+### Source Code&#x20;
 
 Computer code that dictates, through a list of instructions and statements, how software will operate.&#x20;
 
-SPAC (Special Purpose Acquisition Company)&#x20;
+### SPAC (Special Purpose Acquisition Company)&#x20;
 
 A company formed by investors to publicly list an organization and avoid the bureaucracy of a traditional IPO.&#x20;
 
-Spyware&#x20;
+### Spyware&#x20;
 
 Malicious software that records every activity on an electronic device.&#x20;
 
-Stablecoin&#x20;
+### Stablecoin&#x20;
 
 A cryptocurrency usually pegged to fiat that offers low volatility.&#x20;
 
-Staking Time-locking a cryptocurrency in exchange for block rewards or interest.&#x20;
+### Staking&#x20;
 
-Store of Value&#x20;
+Time-locking a cryptocurrency in exchange for block rewards or interest.&#x20;
+
+### Store of Value&#x20;
 
 A cryptocurrency that’s function is to retain its value allowing it to be saved, retrieved, and exchanged in the future without losing any purchasing power.
 
-Testnet&#x20;
+## T
+
+### Testnet&#x20;
 
 A parallel network for testing purposes.&#x20;
 
-Tor (The Onion Router)&#x20;
+### Tor (The Onion Router)&#x20;
 
 Free, open-source software that allows gives users greater privacy and security when communicating over a network.&#x20;
 
-Ticker&#x20;
+### Ticker&#x20;
 
 An abbreviation, usually 3-4 letters, that is used to uniquely identify a cryptocurrency.&#x20;
 
-Ticker Symbol&#x20;
+### Ticker Symbol&#x20;
 
 A symbol used to uniquely identify a cryptocurrency.&#x20;
 
-Timestamp&#x20;
+### Timestamp&#x20;
 
 An official record of when a specific transaction occurred.&#x20;
 
-Token&#x20;
+### Token&#x20;
 
 A layer 2 cryptocurrency designed to provide a specific utility.&#x20;
 
-Token Generation Event (TGE)&#x20;
+### Token Generation Event (TGE)&#x20;
 
 The time at which a token is issued.&#x20;
 
-Token Issuance&#x20;
+### Token Issuance&#x20;
 
 The process of creating new tokens and adding them to the total supply of a cryptocurrency.&#x20;
 
-Token Lockup&#x20;
+### Token Lockup&#x20;
 
 A time period during which cryptocurrency tokens cannot be exchanged or traded.&#x20;
 
-Token Sale&#x20;
+### Token Sale&#x20;
 
 The initial offering of a cryptocurrency token to a private pool of investors before it officially goes on the market.&#x20;
 
-Token Standard&#x20;
+### Token Standard&#x20;
 
 Rules that a smart contract must respect to remain compatible with common standards.&#x20;
 
-Token Swap&#x20;
+### Token Swap&#x20;
 
 Either;&#x20;
 
-The exchange of a certain amount of one token for another between users facilitated by a special exchange service. Or; The migration of a token built on top of one blockchain platform to a different blockchain.&#x20;
+* The exchange of a certain amount of one token for another between users facilitated by a special exchange service.&#x20;
 
-Tokenize&#x20;
+Or;&#x20;
+
+* The migration of a token built on top of one blockchain platform to a different blockchain.&#x20;
+
+### Tokenize&#x20;
 
 The process by which tangible assets are turned into something of digital value with the benefit of being easily divisible.&#x20;
 
-Tokenomics&#x20;
+### Tokenomics&#x20;
 
 A set of rules that governs a cryptocurrency's issuance and supply.&#x20;
 
-Total Supply&#x20;
+### Total Supply&#x20;
 
 The total amount of coins currently in existence.&#x20;
 
-Trading Volume&#x20;
+### Trading Volume&#x20;
 
 The total number of coins that have been exchanged during trading hours of one day.&#x20;
 
-Transaction (TX)&#x20;
+### Transaction (TX)&#x20;
 
 The process of exchanging assets on a blockchain.&#x20;
 
-Transaction Fees&#x20;
+### Transaction Fees&#x20;
 
 A fee paid to have your transaction included in a block.&#x20;
 
-Treasury&#x20;
+### Treasury&#x20;
 
 A storage of funds for use in the development of a project.&#x20;
 
-Two-Factor Authentication (2FA)&#x20;
+### Two-Factor Authentication (2FA)&#x20;
 
 A security measure that requires two different forms of authentication before access is granted.
 
-Unmined&#x20;
+## U
+
+### Unmined&#x20;
 
 License Immediately after a license is bought, it is unmined until the transaction is included in a block.&#x20;
 
-Unspent Transaction Output (UTXO)&#x20;
+### Unspent Transaction Output (UTXO)&#x20;
 
 A technical term for the amount of cryptocurrency remaining after a transaction.&#x20;
 
-Use Case&#x20;
+### Use Case&#x20;
 
 A specific situation in which a project could be used.&#x20;
 
-User Interface (UI)&#x20;
+### User Interface (UI)&#x20;
 
 The means by which a user interacts with a website or application using a digital device.&#x20;
 
-Utility Token&#x20;
+### Utility Token&#x20;
 
 A token that specifically helps people use something.
 
-Validator&#x20;
+## V
+
+### Validator&#x20;
 
 A participant on a Proof-of-Stake (PoS) blockchain, involved in validating blocks for rewards.&#x20;
 
-Vanity Address&#x20;
+### Vanity Address&#x20;
 
 A cryptocurrency public address with letters and numbers custom picked by its owner.&#x20;
 
-Venture Capital&#x20;
+### Venture Capital&#x20;
 
 Private equity for small, start-up projects that are considered to have high growth potential.&#x20;
 
-Verification Code&#x20;
+### Verification Code&#x20;
 
 An alphanumeric security measure designed to protect users and online services from bots and hackers.&#x20;
 
-Vesting Period&#x20;
+### Vesting Period&#x20;
 
 A period of time where the sale of a coin or token is restricted.&#x20;
 
-Virgin Bitcoin&#x20;
+### Virgin Bitcoin&#x20;
 
 A bitcoin that has never been spent.&#x20;
 
-Virtual Private Network (VPN)&#x20;
+### Virtual Private Network (VPN)&#x20;
 
 Technology that creates a safe and encrypted network via a public internet connection, providing the user privacy and anonymity.&#x20;
 
-Volatility&#x20;
+### Volatility&#x20;
 
 A reference to how much a cryptocurrency has moved up or down in value over a period of time.&#x20;
 
-Volume&#x20;
+### Volume&#x20;
 
 How many times a cryptocurrency has been traded over a set period, such as the past 24hrs.&#x20;
 
-Voted License&#x20;
+### Voted License&#x20;
 
 A Zinnia license that has been called to vote and responded, releasing the ZINN locked to buy the license.&#x20;
 
-Voters&#x20;
+### Voters&#x20;
 
 People who buy licenses and use them to vote.&#x20;
 
-Voting Service Provider (VSP)&#x20;
+### Voting Service Provider (VSP)&#x20;
 
 A non-custodial service used to vote on behalf of a license, used to reduce the chance of missed licenses by utilizing geographically distributed servers.
 
-Wallet&#x20;
+## W
+
+### Wallet&#x20;
 
 A file that stores your private keys allowing you to send, receive, secure and spend cryptocurrency.&#x20;
 
-Wash Trade&#x20;
+### Wash Trade&#x20;
 
 Where artificial activity in the marketplace is created by selling and buying the same cryptocurrencies simultaneously allowing manipulation of the market.&#x20;
 
-Watch-Only&#x20;
+### Watch-Only&#x20;
 
 A wallet that doesn’t store or use private keys allowing the user to view and receive cryptocurrency but not spend it.
 
-Weak Hands&#x20;
+### Weak Hands&#x20;
 
 Crypto community slang for a person who is prone to panic selling at the first sign of a drop in the value of their portfolio.&#x20;
 
-Web 1.0&#x20;
+### Web 1.0&#x20;
 
 The early version of the internet created in the 1980s and primarily used as a source of information.&#x20;
 
-Web 2.0&#x20;
+### Web 2.0&#x20;
 
 The current version of the internet dominated by the big four with the addition of social media, content creation and cloud-based storage.&#x20;
 
-Web 3.0&#x20;
+### Web 3.0&#x20;
 
 The next generation of the internet will be decentralized with AI-driven services and the ability to own your content.&#x20;
 
-Whale&#x20;
+### Whale&#x20;
 
 Crypto community slang for a person who has vast amounts of crypto, especially those with enough funds to manipulate the market.&#x20;
 
-Whitepaper&#x20;
+### Whitepaper&#x20;
 
 A detailed document that gives investors an explanation of the concept, technical specifications, and roadmap for a cryptocurrency project. Similar to a Litepaper but more detailed and advanced in its content.&#x20;
 
-Work&#x20;
+### Work&#x20;
 
 The total combined number of hashes calculated by PoW miners to produce the blockchain.
 
-Zero Knowledge Proof&#x20;
+## X
+
+## Y
+
+## Z
+
+### Zero Knowledge Proof&#x20;
 
 The ability to provide evidence that a transaction occurred without revealing the private details of that transaction by using cryptography.&#x20;
 
-Zinnia&#x20;
+### Zinnia&#x20;
 
 A next-generation smart contract enabled hybrid POW/POS public blockchain protocol governed by its participants through its Decentralised Autonomous Organisation (DAO).&#x20;
 
-Zinnia Change Proposal (ZCP)(Zinnia Specific Term)&#x20;
+### Zinnia Change Proposal (ZCP)(Zinnia Specific Term)&#x20;
 
 A design document that describes potential protocol or consensus changes to Zinnia.\
 \
