@@ -384,751 +384,791 @@ Crypto community slang for a person who holds their coins despite a considerable
 
 A measure of the difficulty, and therefore how much computing power is required, to mine a new block in a particular cryptocurrency.&#x20;
 
-Digital&#x20;
+### Digital&#x20;
 
 Electronic technology that generates, stores, and processes data in terms of two states: 1’s and 0’s or positive and non-positive, respectively.&#x20;
 
-Digital Art&#x20;
+### Digital Art&#x20;
 
 Art created by using digital technology.&#x20;
 
-Digital Asset&#x20;
+### Digital Asset&#x20;
 
 The digital form of something of value.&#x20;
 
-Digital Commodity&#x20;
+### Digital Commodity&#x20;
 
 Similar to a digital currency, a digital commodity solely exists in a digital form.&#x20;
 
-Digital Currency&#x20;
+### Digital Currency&#x20;
 
 A currency that exists solely in digital form without a physical representation.&#x20;
 
-Digital Dollar&#x20;
+### Digital Dollar&#x20;
 
 An informal name given to a potential central bank digital currency (CBDC) proposed by the US Government to the federal reserve.&#x20;
 
-Digital Identity&#x20;
+### Digital Identity&#x20;
 
 A set of digital data used by a person or entity to identify themselves.&#x20;
 
-Digital Signature&#x20;
+### Digital Signature&#x20;
 
 A means of proving the authenticity of digital communications.&#x20;
 
-Digital Signature Algorithm (DSA)&#x20;
+### Digital Signature Algorithm (DSA)&#x20;
 
 An algorithm that uses public-key cryptography to generate digital signatures.&#x20;
 
-Dip&#x20;
+### Dip&#x20;
 
 When markets experience a downturn.&#x20;
 
-Discord&#x20;
+### Discord&#x20;
 
 A web-based social media communication platform targeted at, but not solely used by, gamers.&#x20;
 
-Distributed Consensus&#x20;
+### Distributed Consensus&#x20;
 
 An agreement by users across a distributed network.&#x20;
 
-Distributed Ledger&#x20;
+### Distributed Ledger&#x20;
 
 A cryptographically secure ledger that stores data across a distributed network of nodes, where each node holds an identical copy, not necessarily decentralized, permissionless, or public.&#x20;
 
-Distributed Ledger Technology (DLT)&#x20;
+### Distributed Ledger Technology (DLT)&#x20;
 
 The basis for blockchains and cryptocurrencies; a distributed ledger shared across many nodes on a network.&#x20;
 
-Distributed Network&#x20;
+### Distributed Network&#x20;
 
 A network where information is dependent on multiple sources, as opposed to a single centralized server.&#x20;
 
-Double-Spend&#x20;
+### Double-Spend&#x20;
 
 An attack where a set of coins or a coin is spent in more than one transaction which creates new coins that didn’t exist prior.&#x20;
 
-Dump&#x20;
+### Dump&#x20;
 
 A sudden sell-off of digital assets.
 
-ELI5 (Explain Like I’m Five)&#x20;
+## E
+
+### ELI5 (Explain Like I’m Five)&#x20;
 
 A request for a basic explanation.&#x20;
 
-Emission&#x20;
+### Emission&#x20;
 
 The production rate of new coins.&#x20;
 
-Encryption&#x20;
+### Encryption&#x20;
 
 The process of turning data into a code.&#x20;
 
-Enterprise Blockchain&#x20;
+### Enterprise Blockchain&#x20;
 
 Distributed ledger technology, private or public, tailored to the specific needs of businesses.&#x20;
 
-ERC-20&#x20;
+### ERC-20&#x20;
 
 A standard for Ethereum-based tokens.&#x20;
 
-Event Triggers&#x20;
+### Event Triggers&#x20;
 
 A process that activates an event to trigger a smart contract.
 
-Exchange&#x20;
+### Exchange&#x20;
 
 A platform where it is possible to trade cryptocurrencies for either other cryptocurrencies or fiat.&#x20;
 
-Exchange Traded Fund(ETF)&#x20;
+### Exchange Traded Fund(ETF)&#x20;
 
 A basket of securities, such as stocks, bonds, and cryptocurrencies, that tracks an underlying index and can be traded like a single stock.&#x20;
 
-Exit Scam&#x20;
+### Exit Scam&#x20;
 
 A scam where cryptocurrency projects shut down after amassing investors’ money.&#x20;
 
-Expired License (Zinnia Specific Term)&#x20;
+### Expired License (Zinnia Specific Term)&#x20;
 
 A license that has not been selected to vote during the voting period.&#x20;
 
-Explorer (Zinnia Specific Term)&#x20;
+### Explorer (Zinnia Specific Term)&#x20;
 
 A member of the Zinnia community on Discord that has earned the position as an ambassador of the network.
 
-Faucet&#x20;
+## F
+
+### Faucet&#x20;
 
 A website or app that gives out small amounts of cryptocurrency as a reward for the completion of minor tasks, like a faucet leaking small droplets of water.&#x20;
 
-Fee Tiers&#x20;
+### Fee Tiers&#x20;
 
 A fee structure that determines the amount charged when investors deposit or withdraw money and execute trades on a crypto exchange.&#x20;
 
-Fiat&#x20;
+### Fiat&#x20;
 
 Traditional currency, such as USD/GBP/Euro, backed by a central government and available in physical or digital form.&#x20;
 
-Fiat On-Ramp&#x20;
+### Fiat On-Ramp&#x20;
 
 A means to purchase cryptocurrency with fiat.&#x20;
 
-Fiat-Pegged Cryptocurrency&#x20;
+### Fiat-Pegged Cryptocurrency&#x20;
 
 A cryptocurrency that is linked to a government or bank-issued currency.&#x20;
 
-FOMO (Fear Of Missing Out)&#x20;
+### FOMO (Fear Of Missing Out)&#x20;
 
 Anxiety that one may be missing out on an exciting opportunity for a good investment usually aroused by posts on social media.&#x20;
 
-Fork&#x20;
+### Fork&#x20;
 
 A term used to describe what happens when a blockchain has a change in protocol and nodes make separate paths forward. It can also refer to an instance where a block is mined by two or more miners at the same time. (See Hard Fork and Soft Fork)&#x20;
 
-FUD (Fear, Uncertainty, and Doubt)&#x20;
+### FUD (Fear, Uncertainty, and Doubt)&#x20;
 
 A pessimistic mindset relating to a particular cryptocurrency or the market as a whole caused by negative, misleading, or false information.&#x20;
 
-Full Node&#x20;
+### Full Node&#x20;
 
 Software that validates all transactions and blocks fully, as opposed to trusting a 3rd party. An Abbreviation of “Fully-Validating Node”.&#x20;
 
-Fungible&#x20;
+### Fungible&#x20;
 
 When an asset can be replaced by another identical asset.&#x20;
 
-Futures An agreement to buy or sell a cryptocurrency at a specified time in the future and at a predetermined price.
+### Futures&#x20;
 
-Game Theory&#x20;
+An agreement to buy or sell a cryptocurrency at a specified time in the future and at a predetermined price.
+
+## G
+
+### Game Theory&#x20;
 
 Analyzing how groups or individuals handle competitive situations. Utilized within cryptocurrencies to determine the required conditions to prevent people from behaving in a way that could negatively impact a network.&#x20;
 
-Gardener (Zinnia Specific Term)&#x20;
+### Gardener (Zinnia Specific Term)&#x20;
 
 A member of the Zinnia community on Discord.&#x20;
 
-Gas&#x20;
+### Gas&#x20;
 
 A fee on the Ethereum Network based on the cost of conducting transactions or executing smart contracts.&#x20;
 
-Gas Limit&#x20;
+### Gas Limit&#x20;
 
 The maximum fee a user is willing to spend on an Ethereum-based transaction.&#x20;
 
-Gas Price&#x20;
+### Gas Price&#x20;
 
 The price you have to pay for an Ethereum-based transaction.&#x20;
 
-Genesis Block&#x20;
+### Genesis Block&#x20;
 
 The very first block in a blockchain.&#x20;
 
-Governance&#x20;
+### Governance&#x20;
 
 People or organizations that have decision-making powers over a currency.&#x20;
 
-Governance Token&#x20;
+### Governance Token&#x20;
 
 A cryptocurrency token that can influence the governance of a network by being used to vote on decisions.&#x20;
 
-Graphical Processing Unit (GPU)&#x20;
+### Graphical Processing Unit (GPU)&#x20;
 
 A computer chip or graphics card that can be used to effectively mine cryptocurrency.&#x20;
 
-Gwei&#x20;
+### Gwei&#x20;
 
 More Ethereum terminology, this time it refers to the denomination used in measuring the cost of gas in Ethereum transactions.
 
-Hacking&#x20;
+## H
+
+### Hacking&#x20;
 
 The process of unauthorized manipulation of another computer or computer system.&#x20;
 
-Halving&#x20;
+### Halving&#x20;
 
 An event in which the total reward per confirmed block halves.&#x20;
 
-Hard Cap&#x20;
+### Hard Cap&#x20;
 
 The maximum supply of a cryptocurrency.&#x20;
 
-Hard Fork&#x20;
+### Hard Fork&#x20;
 
 A rule change where a node working according to the old rules will assess blocks produced according to the new rules as invalid. If a group of nodes continues to use the old rules a permanent split can happen. (see also Soft Fork)&#x20;
 
-Hash&#x20;
+### Hash&#x20;
 
 The result of a cryptographic hashing function that produces a fixed-size alphanumeric output from a variable-size input.&#x20;
 
-Hash Function&#x20;
+### Hash Function&#x20;
 
 A function that uses cryptography to produce a fixed-size alphanumeric output from a variable-size input.&#x20;
 
-Hashrate&#x20;
+### Hashrate&#x20;
 
 The amount of hashes per second completed by miners on a network.&#x20;
 
-Hierarchical Deterministic (HD) Wallet&#x20;
+### Hierarchical Deterministic (HD) Wallet&#x20;
 
 A wallet that is able to generate all of its keys and addresses from a single source and automatically derive a tree-like structure of public/private keypairs.&#x20;
 
-HODL (Hold On for Dear Life)&#x20;
+### HODL (Hold On for Dear Life)&#x20;
 
 Originating from a typo of the word “HOLDING” in a Bitcoin forum, HODL refers to an investment strategy where you hold an investment over a long period of time. The term is also now recognized as an acronym for “Hold On for Dear Life.”&#x20;
 
-Hot Wallet&#x20;
+### Hot Wallet&#x20;
 
 A wallet that is always connected to the internet and cryptocurrency network, for example a Proof-of-Stake wallet.&#x20;
 
-Hybrid PoW/PoS&#x20;
+### Hybrid PoW/PoS&#x20;
 
 A consensus method combining the benefits of PoW and PoS to increase security and decentralization and provide the greatest overall consensus mechanism for cryptocurrencies.&#x20;
 
-Hyperledger (Hyperledger Foundation)&#x20;
+### Hyperledger (Hyperledger Foundation)&#x20;
 
 An umbrella project of open-source blockchains and blockchain-related tools started by the Linux Foundation in 2015 to support the collaborative development of blockchain-based distributed ledgers.
 
-Immutable&#x20;
+## I
+
+### Immutable&#x20;
 
 Something that can not be changed regardless of time or energy.&#x20;
 
-Inflation ​​
+### Inflation ​​
 
 An increase in prices and a fall in the purchasing value of money.&#x20;
 
-Initial Bounty Offering (IBO)&#x20;
+### Initial Bounty Offering (IBO)&#x20;
 
 A method of launching a cryptocurrency project that focuses on users contributing skills to a platform rather than money.&#x20;
 
-Initial Coin Offering (ICO)&#x20;
+### Initial Coin Offering (ICO)&#x20;
 
 A type of crowdfunding using cryptocurrencies as a means of raising capital for start-up companies.&#x20;
 
-Initial Dex Offering (IDO)&#x20;
+### Initial Dex Offering (IDO)&#x20;
 
 An decentralized version of an initial coin offering (ICO).&#x20;
 
-Initial Exchange Offering&#x20;
+### Initial Exchange Offering&#x20;
 
 A type of crowdfunding where cryptocurrency start-ups list on an exchange to raise capital.&#x20;
 
-Initial Farm Offering (IFO)&#x20;
+### Initial Farm Offering (IFO)&#x20;
 
 A method that helps DeFi projects raise capital through the farming feature offered by decentralized exchanges.&#x20;
 
-Initial Game Offering (IGO)&#x20;
+### Initial Game Offering (IGO)&#x20;
 
 A means of raising capital for gaming project.&#x20;
 
-Initial NFT Offering (INO)&#x20;
+### Initial NFT Offering (INO)&#x20;
 
 A type of crowdfunding where cryptocurrencies can raise funds by listing a set of NFTs via a launchpad.&#x20;
 
-Initial Public Offering (IPO)&#x20;
+### Initial Public Offering (IPO)&#x20;
 
 The process of a company offering shares for purchase on the stock market for the first time.&#x20;
 
-Initial Token Offering (ITO)&#x20;
+### Initial Token Offering (ITO)&#x20;
 
 Similar to an ICO but geared towards offering tokens with utility.
 
-Intellectual Property (IP)&#x20;
+### Intellectual Property (IP)&#x20;
 
 Intangible human creations such as books, designs, manufacturing processes, or software that can be legally protected from being copied or sold.&#x20;
 
-Internet of Things (IoT)&#x20;
+### Internet of Things (IoT)&#x20;
 
 A global interconnected network of smart devices, sensors, and software that can collect and exchange data in real-time via the internet.&#x20;
 
-InterPlanetary File System (IPFS)&#x20;
+### InterPlanetary File System (IPFS)&#x20;
 
 A peer-to-peer, distributed system for storing and accessing files, as well as websites and applications, which relies on content addressing rather than location.&#x20;
 
-Intrinsic Value&#x20;
+### Intrinsic Value&#x20;
 
 An asset’s actual worth based on a complex financial calculation rather than its current price.&#x20;
 
-Issuance&#x20;
+### Issuance&#x20;
 
 Increase in the available supply of a cryptocurrency as more coins are minted into existence through the block reward.
 
-Java&#x20;
+## J
+
+### Java&#x20;
 
 A general-purpose, class-based as well as object-oriented programming language.&#x20;
 
-JavaScript&#x20;
+### JavaScript&#x20;
 
 An advanced programming language mostly used in web-based applications.&#x20;
 
-JOMO (Joy Of Missing Out)&#x20;
+### JOMO (Joy Of Missing Out)&#x20;
 
 A feeling of contentment with one’s own pursuits and activities, without worrying over the possibility of missing out on what others may be doing. The opposite state of FOMO.
 
-Know Your Customer (KYC)&#x20;
+## K
+
+### Know Your Customer (KYC)&#x20;
 
 Identity checking process that cryptocurrency exchanges and trading platforms need to complete to verify the identity of customers.
 
-Lambo&#x20;
+### Lambo&#x20;
 
 The term is used as a means of expressing excitement that cryptocurrency is going to make the user extremely wealthy. Short for Lamborghini, the Italian supercar brand.&#x20;
 
-Layer 1&#x20;
+### Layer 1&#x20;
 
 The type of underlying blockchain architecture of a base network such as Bitcoin or Ethereum where the blockchain can validate and finalize transactions independently.&#x20;
 
-Layer 2&#x20;
+### Layer 2&#x20;
 
 A secondary blockchain architecture that is built using an existing Layer 1 blockchain with the aim of solving scaling difficulties, creating utility, improving transaction speed, or other such aspects that the Layer 1 blockchain is unable to facilitate.&#x20;
 
-Leverage&#x20;
+### Leverage&#x20;
 
 The use of borrowed capital to increase trading power.&#x20;
 
-License (Zinnia Specific Term)&#x20;
+### License (Zinnia Specific Term)&#x20;
 
 Zinnia holders can time-lock ZINN in exchange for a license. Licenses bestow voting rights to the holder, allowing them to vote on Zinnnia governance decisions.&#x20;
 
-License Pool (Zinnia Specific Term)&#x20;
+### License Pool (Zinnia Specific Term)&#x20;
 
 The pool of live licenses that are available to be called to vote.&#x20;
 
-License Price (Zinnia Specific Term)&#x20;
+### License Price (Zinnia Specific Term)&#x20;
 
 The amount of ZINN a user must time-lock to buy a license.&#x20;
 
-Light Node&#x20;
+### Light Node&#x20;
 
 Typically a downloaded wallet that contains only specific parts of a blockchain such as headers and needs to be connected to a full node to further validate information. An abbreviation of Lightweight Node.&#x20;
 
-Lightning Network&#x20;
+### Lightning Network&#x20;
 
 A second-layer transaction mechanism using channels between two parties to process transactions more quickly, designed to solve Bitcoin’s scalability problem.
 
-Limit Order/Limit Buy/Limit Sell&#x20;
+### Limit Order/Limit Buy/Limit Sell&#x20;
 
 Types of orders used to purchase or sell a cryptocurrency at a specified or better price.&#x20;
 
-Liquidation&#x20;
+### Liquidation&#x20;
 
 The conversion of cryptocurrency for fiat.&#x20;
 
-Liquidity&#x20;
+### Liquidity&#x20;
 
 The efficiency or ease with which a cryptocurrency can be traded without impacting its market value.&#x20;
 
-Litepaper&#x20;
+### Litepaper&#x20;
 
 A document that gives investors an overview of the concept, technical information, and roadmap for a cryptocurrency project.&#x20;
 
-Live License (Zinnia Specific Term)&#x20;
+### Live License (Zinnia Specific Term)&#x20;
 
 Licenses that are waiting to be called to vote.&#x20;
 
-Long&#x20;
+### Long&#x20;
 
 Purchasing cryptocurrency with the plan of selling it at a higher price later.
 
-Mainnet&#x20;
+## M
+
+### Mainnet&#x20;
 
 A term used to differentiate the main network from the testnet.&#x20;
 
-Malware&#x20;
+### Malware&#x20;
 
 Malicious software used to illegally access and compromise a computer, network, or server.&#x20;
 
-Man-in-the-Middle Attack (MITM)&#x20;
+### Man-in-the-Middle Attack (MITM)&#x20;
 
 A general term for a cyberattack where a perpetrator positions themself between two parties for nefarious reasons.&#x20;
 
-Masternodes&#x20;
+### Masternodes&#x20;
 
 Similar to a full node, but with extra functions such as participating in governance and voting, and anonymizing and clearing transactions.&#x20;
 
-Max Supply&#x20;
+### Max Supply&#x20;
 
 The maximum number of coins that will ever exist in the lifetime of a cryptocurrency.&#x20;
 
-Meatspace&#x20;
+### Meatspace&#x20;
 
 The physical world, as opposed to cyberspace or metaverse.&#x20;
 
-Meme Economy&#x20;
+### Meme Economy&#x20;
 
 An online culture where memes are addressed as if they were commodities with different prices.&#x20;
 
-Memecoin&#x20;
+### Memecoin&#x20;
 
 A cryptocurrency token created as a joke or meme.&#x20;
 
-Mempool&#x20;
+### Mempool&#x20;
 
 Transactions waiting to be mined.&#x20;
 
-Merkle Tree&#x20;
+### Merkle Tree&#x20;
 
 A structure in cryptography shaped like a tree where every leaf node is labeled with the hash of a data block and every non-leaf node is labeled with the hash value of the titles of its child nodes. Because each change in the structure has an upwards knock-on effect, verification can be achieved by examining the uppermost hash.&#x20;
 
-Metaverse&#x20;
+### Metaverse&#x20;
 
 A digital universe containing aspects of the real world, such as live interactions, economies, and real estate.&#x20;
 
-Miners&#x20;
+### Miners&#x20;
 
 Cryptocurrency users that help secure a network by successfully validating blocks via the Proof-of-Work (PoW) consensus method.&#x20;
 
-Mining Difficulty&#x20;
+### Mining Difficulty&#x20;
 
 A measure of how difficult it is to find the right hash for the next block.&#x20;
 
-Mining Farm&#x20;
+### Mining Farm&#x20;
 
 A term for a group of miners who mine together, also known as a mining pool.&#x20;
 
-Mining Reward&#x20;
+### Mining Reward&#x20;
 
 The income that miners receive after finding and validating a block.&#x20;
 
-Mining Rig&#x20;
+### Mining Rig&#x20;
 
 Equipment used for mining cryptocurrency.&#x20;
 
-Minting&#x20;
+### Minting&#x20;
 
 The process of generating new coins using the Proof-of-Stake (PoS) consensus mechanism.&#x20;
 
-Missed License (Zinnia Specific Term)&#x20;
+### Missed License (Zinnia Specific Term)&#x20;
 
 Licenses that have been called but did not receive a reward. This can happen if a license is called to vote, but the wallet that bought the license does not respond or if a miner does not include the vote in the following block.&#x20;
 
-Mobile Wallet&#x20;
+### Mobile Wallet&#x20;
 
 A cryptocurrency wallet installed on a mobile device.&#x20;
 
-Moon&#x20;
+### Moon&#x20;
 
 A term used to describe a continuous upward movement in the price of a cryptocurrency.&#x20;
 
-Multisignature&#x20;
+### Multisignature&#x20;
 
 A transaction that can be authorized by more than one private key.
 
-Network&#x20;
+### Network&#x20;
 
 All the nodes involved in the operation of a blockchain.&#x20;
 
-Network Latency&#x20;
+## N
+
+### Network Latency&#x20;
 
 The amount of time it takes for a node on one network to communicate with a node on another network.&#x20;
 
-Network-Enhanced Virtual Machine (NEVM)&#x20;
+### Network-Enhanced Virtual Machine (NEVM)&#x20;
 
 A combination of the best attributes of the Bitcoin (BTC) and Ethereum (ETH) networks, enabling interoperability and scalability to promote mass adoption.&#x20;
 
-Newb&#x20;
+### Newb&#x20;
 
 A person that is new to a community. No-Coiner A person who owns no cryptocurrency and has an overall negative opinion of the technology.
 
-Node&#x20;
+### Node&#x20;
 
 An electronic device connected to the network used to validate transactions, broadcast new blocks, and maintain the ledger.&#x20;
 
-Non-Fungible Token (NFT)&#x20;
+### Non-Fungible Token (NFT)&#x20;
 
 A financial security consisting of digital data stored in a blockchain.&#x20;
 
-Nonce&#x20;
+### Nonce&#x20;
 
 Derived from the term “number used once,” it refers to a field in the block header. PoW miners adjust this number to keep the hash of the block lower than or equal to the difficulty target of the network at that time.&#x20;
 
-Notarization on Blockchain&#x20;
+### Notarization on Blockchain&#x20;
 
 A function of blockchain technology that allows anyone to timestamp a creation and secure its provenance.
 
-Off-Chain&#x20;
+## O
+
+### Off-Chain&#x20;
 
 A transaction processed outside of a blockchain network to increase speed and decrease cost.&#x20;
 
-Off-Chain Governance&#x20;
+### Off-Chain Governance&#x20;
 
 A type of blockchain governance where decisions are made away from the primary codebase.&#x20;
 
-On-Chain&#x20;
+### On-Chain&#x20;
 
 Transactions recorded on the blockchain itself and distributed between all the users.&#x20;
 
-On-Chain Governance&#x20;
+### On-Chain Governance&#x20;
 
 A type of blockchain governance where decisions are made by the primary codebase.&#x20;
 
-Open Source&#x20;
+### Open Source&#x20;
 
 The sharing of information freely for the good of the community.&#x20;
 
-Oracles&#x20;
+### Oracles&#x20;
 
 Software that finds and verifies information, connecting external systems to a blockchain and providing data to smart contracts enabling execution.&#x20;
 
-Orphan Block&#x20;
+### Orphan Block&#x20;
 
 A valid block that is not included in the definitive blockchain.&#x20;
 
-Orphan Transaction&#x20;
+### Orphan Transaction&#x20;
 
 A transaction with missing inputs.&#x20;
 
-Over-the-Counter (OTC)&#x20;
+### Over-the-Counter (OTC)&#x20;
 
 A transaction outside of an exchange, usually peer-to-peer through private trades.
 
-Peer-to-Peer (P2P)&#x20;
+## P
+
+### Peer-to-Peer (P2P)&#x20;
 
 The decentralized interactions between users of a distributed network.&#x20;
 
-Peer-to-Peer (P2P) Lending&#x20;
+### Peer-to-Peer (P2P) Lending&#x20;
 
 The lending of assets without a third-party intermediary.&#x20;
 
-Peg&#x20;
+### Peg&#x20;
 
 A value for the rate of exchange between assets that is tied to some other medium of exchange, such as gold or fiat.&#x20;
 
-Pegged Currency&#x20;
+### Pegged Currency&#x20;
 
 A cryptocurrency whose value is fixed to a traditional asset, such as a fiat currency.&#x20;
 
-Permissioned Ledger&#x20;
+### Permissioned Ledger&#x20;
 
 A ledger designed with restrictions, where participants are known and authorization is required before use.&#x20;
 
-Permissionless&#x20;
+### Permissionless&#x20;
 
 A network that no single entity can regulate or control.&#x20;
 
-Ponzi Scheme&#x20;
+### Ponzi Scheme&#x20;
 
 A form of fraud where profits are paid to early investors using funds gained from new investors.&#x20;
 
-Post-Mine&#x20;
+### Post-Mine&#x20;
 
 The creation of new coins following a cryptocurrency’s launch, before public mining is possible.&#x20;
 
-Pre-IDO&#x20;
+### Pre-IDO&#x20;
 
 Tokens offered before an initial DEX offering (IDO) takes place.&#x20;
 
-Pre-Mine&#x20;
+### Pre-Mine&#x20;
 
 The generation of a limited amount of a coin’s initial supply prior to the public launch.&#x20;
 
-Pre-Sale&#x20;
+### Pre-Sale&#x20;
 
 The sale of a cryptocurrency to investors before it goes public.&#x20;
 
-Private Blockchain&#x20;
+### Private Blockchain&#x20;
 
 A blockchain controlled by a single entity.&#x20;
 
-Private Key&#x20;
+### Private Key&#x20;
 
 A cryptographic key, known only to the owner, that is used to decipher messages sent using a public key.&#x20;
 
-Private Passphrase&#x20;
+### Private Passphrase&#x20;
 
 A set of secret words known only to the owner that is often used to secure private keys.&#x20;
 
-Proof-of-Stake (PoS) Voting&#x20;
+### Proof-of-Stake (PoS) Voting&#x20;
 
 A consensus mechanism by which cryptocurrency holders vote to approve blocks confirmed by PoW miners and earn staking rewards.&#x20;
 
-Proof-of-Work (PoW)&#x20;
+### Proof-of-Work (PoW)&#x20;
 
 A consensus mechanism miners use to prove they have contributed computational power to create a new block.&#x20;
 
-Protocol&#x20;
+### Protocol&#x20;
 
 A set of rules and processes that govern how a blockchain network will operate, usually covering consensus mechanism, transaction validation, and network participation.&#x20;
 
-Pseudonymous&#x20;
+### Pseudonymous&#x20;
 
 The use of a false name to protect one’s true identity, a famous example being Satoshi Nakamoto.&#x20;
 
-Public Address&#x20;
+### Public Address&#x20;
 
 The cryptographic hash of a public key used as an address to send payments.&#x20;
 
-Public Blockchain&#x20;
+### Public Blockchain&#x20;
 
 A blockchain that can be accessed by anyone.&#x20;
 
-Public Key&#x20;
+### Public Key&#x20;
 
 A cryptographic key available to anyone and used to encrypt messages that only the intended recipient can decipher using their private key.&#x20;
 
-Public Sale&#x20;
+### Public Sale&#x20;
 
 The last round of an ICO when a cryptocurrency project offers its coin to the public before it’s listed on an exchange.&#x20;
 
-Public-Key Cryptography&#x20;
+### Public-Key Cryptography&#x20;
 
 Algorithmic cryptographic procedures used to scramble data, so it appears randomized.&#x20;
 
-Public-Key Infrastructure (PKI)&#x20;
+### Public-Key Infrastructure (PKI)&#x20;
 
 A series of roles, policies, and processes used by a network to create, manage, distribute, use, store, and manage public-key encryption and revoke digital certificates.&#x20;
 
-Pump and Dump (P\&D) Scheme&#x20;
+### Pump and Dump (P\&D) Scheme&#x20;
 
 The use of social media to artificially inflate the value of a cryptocurrency by making false and misleading positive statements before selling to make a profit.
 
-QR Code&#x20;
+## Q
+
+### QR Code&#x20;
 
 A black-and-white pattern readable by smart devices that contains graphically encoded data.&#x20;
 
-Quantum Computing&#x20;
+### Quantum Computing&#x20;
 
 A computer that uses quantum mechanics to perform vastly more efficient computations than traditional computers are able to.
 
-Rank&#x20;
+## R
+
+### Rank&#x20;
 
 The relative position of a cryptocurrency by market capitalization.&#x20;
 
-Ransomware&#x20;
+### Ransomware&#x20;
 
 Malware used by hackers to steal or encrypt files and demand a ransom from the owner in exchange for file restoration or decryption.&#x20;
 
-Recovery Phrase&#x20;
+### Recovery Phrase&#x20;
 
 A cryptographically derived security code, generated by a wallet, consisting of a set of random words, also known as a “Seed Phrase,” that gives the holder access to the funds within the wallet.&#x20;
 
-REKT&#x20;
+### REKT&#x20;
 
 Shorthand slang for “wrecked,” describing a bad loss in a trade.&#x20;
 
-Relay Nodes&#x20;
+### Relay Nodes&#x20;
 
 Nodes that assist block-producing nodes communicate by guaranteeing that the authenticity of the core nodes and the blockchain is preserved, even if one or more relays are hacked.&#x20;
 
-Reorg&#x20;
+### Reorg&#x20;
 
 A process whereby a set of blocks in a blockchain are replaced by a longer set that has more work. The depth of the reorg is the number of blocks replaced. Abbreviation of reorganization.&#x20;
 
-Replay Attack&#x20;
+### Replay Attack&#x20;
 
 A network security attack where communications between a sender and receiver are intercepted.&#x20;
 
-Revoked License (Zinnia Specific Term)&#x20;
+### Revoked License (Zinnia Specific Term)&#x20;
 
 A Zinnia license that was missed or expired gets revoked, and the ZINN used to buy it becomes spendable again.&#x20;
 
-Roadmap&#x20;
+### Roadmap&#x20;
 
 A visual timeline and summary of the direction a cryptocurrency project is taking.&#x20;
 
-ROI (Return On Investment) The ratio between the net profit and cost of investing.&#x20;
+### ROI (Return On Investment)&#x20;
 
-Rug Pull&#x20;
+The ratio between the net profit and cost of investing.&#x20;
+
+### Rug Pull&#x20;
 
 Another scam, this time it describes a situation where developers abandon a project and remove all trading liquidity, therefore, taking all their investors' money.&#x20;
 
-Rule Change Interval (RCI)(Zinnia Specific Term)&#x20;
+### Rule Change Interval (RCI)(Zinnia Specific Term)&#x20;
 
 A time period during which Zinnia license holders can vote on consensus rule changes.&#x20;
 
-Rule Change Proposal&#x20;
+### Rule Change Proposal&#x20;
 
 A proposal to change the consensus rules of a blockchain.&#x20;
 
-Rust&#x20;
+### Rust&#x20;
 
 Rust is a multi-paradigm programming language, similar to C++.
 
-Satoshi (SATS)&#x20;
+## S
+
+### Satoshi (SATS)&#x20;
 
 0.00000001 BTC is 1 Satoshi, the smallest unit of Bitcoin.&#x20;
 
-Satoshi Nakamoto&#x20;
+### Satoshi Nakamoto&#x20;
 
 The creator of Bitcoin.&#x20;
 
-Scamcoin&#x20;
+### Scamcoin&#x20;
 
 A coin that has been created as a "get rich quick scheme” and has no other benefit.&#x20;
 
-Script&#x20;
+### Script&#x20;
 
 A list of commands to be executed by a computer program.&#x20;
 
-Scrypt&#x20;
+### Scrypt&#x20;
 
 An alternative Proof-of-Work (PoW) algorithm to SHA-256 used in Bitcoin mining.&#x20;
 
-Securities and Exchange Commission (SEC)&#x20;
+### Securities and Exchange Commission (SEC)&#x20;
 
 An independent United States federal government regulatory agency responsible for protecting investors and maintaining fair and orderly functioning of the securities markets.&#x20;
 
-Seed Phrase&#x20;
+### Seed Phrase&#x20;
 
 A cryptographically derived security code, generated by a wallet, consisting of a set of random words, also known as a “Recovery Phrase,” that gives the holder access to the funds within the wallet.&#x20;
 
-SHA-256 A cryptographic hash function that generates a 256-bit value to represent data, famous for its use in Bitcoin Proof-of-Work (PoW).&#x20;
+### SHA-256&#x20;
 
-Shard A blockchain network that has been separated into multiple smaller partitions containing their own data.&#x20;
+A cryptographic hash function that generates a 256-bit value to represent data, famous for its use in Bitcoin Proof-of-Work (PoW).&#x20;
 
-Sharding The process of creating shards.&#x20;
+### Shard&#x20;
 
-Shitcoin A coin with no apparent potential value or usage.&#x20;
+A blockchain network that has been separated into multiple smaller partitions containing their own data.&#x20;
 
-Short&#x20;
+### Sharding&#x20;
+
+The process of creating shards.&#x20;
+
+### Shitcoin&#x20;
+
+A coin with no apparent potential value or usage.&#x20;
+
+### Short&#x20;
 
 A trading technique where a cryptocurrency is borrowed and sold with the expectation that the price will decline, once the price has declined, the same cryptocurrency is bought and returned to the lender. The trader makes the difference between the two prices in profit.&#x20;
 
-Signature&#x20;
+### Signature&#x20;
 
 A cryptographic mechanism to prove that a private key was used to validate or authorize specific data.&#x20;
 
-Simnet&#x20;
+### Simnet&#x20;
 
 A simulation network that a developer can use to mine new blocks locally at will for testing purposes.&#x20;
 
-Simplified Payment Verification (SPV)&#x20;
+### Simplified Payment Verification (SPV)&#x20;
 
 A wallet that can verify payments using only the blocks related to the addresses owned by the wallet rather than downloading the entire blockchain enabling wallets to run on less specialized hardware.&#x20;
 
