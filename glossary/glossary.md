@@ -1,376 +1,386 @@
-# Page 1
+# Glossary
 
-Account&#x20;
+## A
+
+### Account&#x20;
 
 Like a bank account, a means to allow you to keep separate records of your funds.&#x20;
 
-Address&#x20;
+### Address&#x20;
 
 A destination for a payment, similar to an email address.&#x20;
 
-Airdrop&#x20;
+### Airdrop&#x20;
 
 A means to distribute cryptocurrency to a specific audience as a reward.&#x20;
 
-Algorithm&#x20;
+### Algorithm&#x20;
 
 A process followed in problem-solving or calculation operations.&#x20;
 
-All-Time-High (ATH)&#x20;
+### All-Time-High (ATH)&#x20;
 
 The highest price point that a specific cryptocurrency has ever ascended to.&#x20;
 
-All-Time-Low (ATL)&#x20;
+### All-Time-Low (ATL)&#x20;
 
 The lowest price point that a specific cryptocurrency has ever descended to.&#x20;
 
-Altcoin&#x20;
+### Altcoin&#x20;
 
 An abbreviation of the term “alternative coin” usually used when referring to any other coin than Bitcoin.&#x20;
 
-API (Application Programming Interface)&#x20;
+### API (Application Programming Interface)&#x20;
 
 A means for software components to interact with a clear set of directions detailing what data should be transferred and what actions should be taken.&#x20;
 
-ASIC (Application Specific Integrated Circuit)&#x20;
+### ASIC (Application Specific Integrated Circuit)&#x20;
 
 A computer designed specifically to perform Proof-of-Work (PoW) mining.&#x20;
 
-Atomic Swap&#x20;
+### Atomic Swap&#x20;
 
 The decentralized exchange of cryptocurrencies from separate blockchains.&#x20;
 
-Authentication&#x20;
+### Authentication&#x20;
 
 A means of confirming identity by using ownership proofs such as passwords, SMS codes, or fingerprints.
 
-Bag&#x20;
+## B
+
+### Bag&#x20;
 
 Slang for an individual's amount of a single cryptocurrency or their portfolio.&#x20;
 
-Bandwidth&#x20;
+### Bandwidth&#x20;
 
 The amount of data available for transactions on a network.&#x20;
 
-Beacon Chain&#x20;
+### Beacon Chain&#x20;
 
 A blockchain that organizes shard chains, staking, and recording of validators in a Proof-of-Stake cryptocurrency.&#x20;
 
-Bear&#x20;
+### Bear&#x20;
 
 A person who believes that cryptocurrency prices will decline. The opposite of a Bull.&#x20;
 
-Bear Market&#x20;
+### Bear Market&#x20;
 
 A period when cryptocurrency prices fall, and sellers have overtaken buyers, causing market prices to decrease consistently. Opposite of Bull Market.&#x20;
 
-Bear Trap&#x20;
+### Bear Trap&#x20;
 
 False technical indication of a reversal from a down-market to an up-market that can lure unsuspecting investors.&#x20;
 
-Bearwhale&#x20;
+### Bearwhale&#x20;
 
 A holder of a vast sum of cryptocurrency that uses their position to make a profit by driving the price down.&#x20;
 
-Beta Version&#x20;
+### Beta Version&#x20;
 
 A pre-release phase of software development that allows the product to be tested in the real world by selected users.&#x20;
 
-Binary Code&#x20;
+### Binary Code&#x20;
 
 A two-value protocol based on the numbers "0" and "1" used to represent text, computer commands, or other types of data.&#x20;
 
-Bit&#x20;
+### Bit&#x20;
 
 A single binary value, either 0 or 1, the smallest unit of data in a computer. An abbreviation of Binary Digit.&#x20;
 
-Bitcoin Pizza&#x20;
+### Bitcoin Pizza&#x20;
 
 On May 22nd, 2010, Laszlo Hanyecz paid 10,000 Bitcoins for two pizzas. The now infamous transaction was the first business transaction of Bitcoin in the real world.&#x20;
 
-Bitcoiner&#x20;
+### Bitcoiner&#x20;
 
 A person who is optimistic about Bitcoin.&#x20;
 
-Block&#x20;
+### Block&#x20;
 
 The data structure transactions are logged on, before being secured in a blockchain.&#x20;
 
-Blockchain&#x20;
+### Blockchain&#x20;
 
 A series of blocks secured consecutively on a distributed digital database.&#x20;
 
-Block Explorer&#x20;
+### Block Explorer&#x20;
 
 A user-friendly tool for inspecting the contents of blocks.&#x20;
 
-Block Header&#x20;
+### Block Header&#x20;
 
 A hash value of block metadata used as a title to identify blocks.&#x20;
 
-Block Height&#x20;
+### Block Height&#x20;
 
 A value describing the position of a specific block in a blockchain.&#x20;
 
-Block Reward&#x20;
+### Block Reward&#x20;
 
 A portion of a newly minted digital token assigned to users who help verify transactions on a blockchain.&#x20;
 
-Block Size&#x20;
+### Block Size&#x20;
 
 The amount of transaction data a single block in a chain can hold.&#x20;
 
-Block Time The time it takes for a new block to be produced.&#x20;
+### Block Time&#x20;
 
-Block Voting&#x20;
+The time it takes for a new block to be produced.&#x20;
+
+### Block Voting&#x20;
 
 A process where users who have currency tied up (staking) vote to approve or reject the regular transaction tree of the previous block. It can also be used to describe voting on protocol changes and consensus rule change proposals.&#x20;
 
-Bots&#x20;
+### Bots&#x20;
 
 Automated software used to carry out tasks.&#x20;
 
-Bounty&#x20;
+### Bounty&#x20;
 
 A reward given to people for completing jobs assigned by a blockchain project.&#x20;
 
-Browser Extension&#x20;
+### Browser Extension&#x20;
 
 An internet browser plugin that adds additional features.&#x20;
 
-Brute Force Attack (BFA)&#x20;
+### Brute Force Attack (BFA)&#x20;
 
 An automated trial and error attack with the aim of cracking a password or key.&#x20;
 
-Bull&#x20;
+### Bull&#x20;
 
 A person who believes that cryptocurrency prices will increase. The opposite of a Bear.&#x20;
 
-Bull Market&#x20;
+### Bull Market&#x20;
 
 When the price of cryptocurrency grows dramatically. Opposite of a Bear Market.&#x20;
 
-Bull Run&#x20;
+### Bull Run&#x20;
 
 A period of time during which the value of cryptocurrency is constantly rising.&#x20;
 
-Bull Trap&#x20;
+### Bull Trap&#x20;
 
 When a steadily declining cryptocurrency appears to reverse and increase in value but shortly resumes its downward trend.&#x20;
 
-Burn/Burned&#x20;
+### Burn/Burned&#x20;
 
 A coin or token that has been purposely and permanently removed from circulation.&#x20;
 
-Buy The Dip (BTD)&#x20;
+### Buy The Dip (BTD)&#x20;
 
 To buy cryptocurrency while prices are at a low point.
 
-Candlesticks&#x20;
+## C
+
+### Candlesticks&#x20;
 
 A visual method used to show price changes in cryptocurrency on a chart or graph. Abbreviation; Candles.&#x20;
 
-Capital&#x20;
+### Capital&#x20;
 
 A sum of money that can be invested.&#x20;
 
-Censorship&#x20;
+### Censorship&#x20;
 
 The act of altering, suppressing, or prohibiting publicly available media that is considered objectionable, harmful, sensitive, or inconvenient.&#x20;
 
-Central Bank&#x20;
+### Central Bank&#x20;
 
 An institution responsible for providing financial services to a country’s government and commercial banking system as well as the transmission of monetary policy and issuing currency.&#x20;
 
-Central Bank Digital Currency (CBDC)&#x20;
+### Central Bank Digital Currency (CBDC)&#x20;
 
 A digital currency issued by a central bank and controlled by a government.&#x20;
 
-Central Processing Unit (CPU)&#x20;
+### Central Processing Unit (CPU)&#x20;
 
 A computer component responsible for coordinating, interpreting, and executing programs.&#x20;
 
-Centralized&#x20;
+### Centralized&#x20;
 
 An organizational structure where a single entity is in control of an entire network.&#x20;
 
-Centralized Exchange (CEX)&#x20;
+### Centralized Exchange (CEX)&#x20;
 
 A cryptocurrency exchange operated by a centralized company.&#x20;
 
-Chain Split&#x20;
+### Chain Split&#x20;
 
 A situation where a blockchain splits into two separate chains.&#x20;
 
-Change&#x20;
+### Change&#x20;
 
 A similar principle to change when using cash, when 1 unit of cryptocurrency is sent from a wallet address that contains multiple units of currency, the remainder is sent to another address owned by the sender, a change address.&#x20;
 
-Change Address&#x20;
+### Change Address&#x20;
 
 A unique address created by your wallet every time it has a need to receive change.&#x20;
 
-Circulating Supply&#x20;
+### Circulating Supply&#x20;
 
 An approximation of the total amount of coins both held by users and circulating on the market.&#x20;
 
-Cloud Mining&#x20;
+### Cloud Mining&#x20;
 
 Paying for remote processing power from a third party for the task of cryptocurrency mining.&#x20;
 
-Coin&#x20;
+### Coin&#x20;
 
 A layer 1 cryptocurrency that operates independently or one unit of such a cryptocurrency.&#x20;
 
-Coin Type&#x20;
+### Coin Type&#x20;
 
 A unique number that is given to a cryptocurrency and used during the process of generating public/private keypairs.&#x20;
 
-Cold Wallet&#x20;
+### Cold Wallet&#x20;
 
 A wallet used to generate private keys and store cryptocurrency whilst being completely offline.&#x20;
 
-Command Line Interface (CLI)&#x20;
+### Command Line Interface (CLI)&#x20;
 
 An interface interacted with by using the command line.&#x20;
 
-Consensus&#x20;
+### Consensus&#x20;
 
 An agreement between all the participants of a network that the order and content of the blocks on a chain are correct.&#x20;
 
-Consensus Mechanism&#x20;
+### Consensus Mechanism&#x20;
 
 A method that allows all the participants of a network to prove that the order and content of the blocks on a chain are correct.&#x20;
 
-Consensus Rules&#x20;
+### Consensus Rules&#x20;
 
 A set of rules embedded in code that allow all nodes on a network to come to an agreement on the state of the ledger.&#x20;
 
-Consensus Rules Voting&#x20;
+### Consensus Rules Voting&#x20;
 
 A democratic method of changing consensus rules by user participation in a vote.&#x20;
 
-Constitution&#x20;
+### Constitution&#x20;
 
 A clear definition of the purpose and guiding principles of a project.&#x20;
 
-Core Wallet&#x20;
+### Core Wallet&#x20;
 
 A wallet that contains the complete blockchain.&#x20;
 
-CPU Mining&#x20;
+### CPU Mining&#x20;
 
 The process of mining cryptocurrency using a central processing unit (CPU).&#x20;
 
-Credit&#x20;
+### Credit&#x20;
 
 A full unit of a currency.&#x20;
 
-Cross-Chain&#x20;
+### Cross-Chain&#x20;
 
 The exchange of information and value between blockchain networks.&#x20;
 
-Cryptocurrency&#x20;
+### Cryptocurrency&#x20;
 
 A digital form of money, solely existing online, constructed using blockchain technology and cryptographic techniques. Abbreviation; Crypto.&#x20;
 
-Cryptographic Hash Function&#x20;
+### Cryptographic Hash Function&#x20;
 
 A mathematical algorithm used to produce a fixed-size value from variable-size data input.&#x20;
 
-Cryptography&#x20;
+### Cryptography&#x20;
 
 The study of secure communication techniques permitting the sender and intended recipient alone to view a message.&#x20;
 
-Cryptojacking&#x20;
+### Cryptojacking&#x20;
 
 The use of a third party’s computer to mine cryptocurrency without their consent.&#x20;
 
-Cryptology&#x20;
+### Cryptology&#x20;
 
 The scientific study of cryptography.&#x20;
 
-Custody&#x20;
+### Custody&#x20;
 
 The ability to store financial assets whilst preventing theft or loss.
 
-Dead Coin&#x20;
+## D
+
+### Dead Coin&#x20;
 
 A cryptocurrency that has ceased to exist.&#x20;
 
-Decentralized&#x20;
+### Decentralized&#x20;
 
 A system or network where distributed and individually owned computers work together to achieve a common goal.&#x20;
 
-Decentralized Applications (DApps)&#x20;
+### Decentralized Applications (DApps)&#x20;
 
 An application built and run on a decentralized network.&#x20;
 
-Decentralized Autonomous Organizations (DAO)&#x20;
+### Decentralized Autonomous Organizations (DAO)&#x20;
 
 An organization without a single, central body that is democratically governed by defined rules, smart contracts, and member voting.&#x20;
 
-Decentralized Currency&#x20;
+### Decentralized Currency&#x20;
 
 A means of transferring currency using a distributed network that isn’t operated by a single, centralized third party.&#x20;
 
-Decentralized Database&#x20;
+### Decentralized Database&#x20;
 
 A data storage solution that uses a decentralized, distributed network to randomly store data across multiple nodes.&#x20;
 
-Decentralized Exchange (DEX)&#x20;
+### Decentralized Exchange (DEX)&#x20;
 
 A direct peer-to-peer cryptocurrency exchange that allows the transaction of assets without the need for an intermediary.&#x20;
 
-Decentralized Governance&#x20;
+### Decentralized Governance&#x20;
 
 The process of a network's users democratically voting on the development and management of the blockchain.&#x20;
 
-Decentralized Identifier (DID)&#x20;
+### Decentralized Identifier (DID)&#x20;
 
 ID that acts as proof of ownership of a digital identity issued by a decentralized autonomous network.&#x20;
 
-Decentralized Marketplace&#x20;
+### Decentralized Marketplace&#x20;
 
 A global means for trades to be completed without the need for third-party intermediaries.&#x20;
 
-Decentralized Network&#x20;
+### Decentralized Network&#x20;
 
 A group of independently owned and distributed nodes that connect with each other without a single coordinating source of control or server.&#x20;
 
-Decentralized Payment Network&#x20;
+### Decentralized Payment Network&#x20;
 
 A payment system where monetary transactions can be completed between users, without having to rely on a third-party intermediary to maintain the network.&#x20;
 
-Decentralized Social Media&#x20;
+### Decentralized Social Media&#x20;
 
 A blockchain-based social media platform.&#x20;
 
-Decentralized Stablecoin&#x20;
+### Decentralized Stablecoin&#x20;
 
 A transparent and non-custodial cryptocurrency with zero or minimal third-party control.&#x20;
 
-Decryption&#x20;
+### Decryption&#x20;
 
 The process of reversing encrypted data back into a readable format.&#x20;
 
-DeFi (Decentralized Finance)&#x20;
+### DeFi (Decentralized Finance)&#x20;
 
 A booming industry providing an alternative to traditional, centralized financial services.&#x20;
 
-Desktop Wallet&#x20;
+### Desktop Wallet&#x20;
 
 Software installed on a desktop computer or laptop that provides the user with a cryptocurrency wallet that is usually non-custodial.&#x20;
 
-Deterministic Wallet&#x20;
+### Deterministic Wallet&#x20;
 
 A type of cryptocurrency wallet where keys are derived from a single seed allowing users to back up or restore a wallet with ease.&#x20;
 
-Diamond Hands&#x20;
+### Diamond Hands&#x20;
 
 Crypto community slang for a person who holds their coins despite a considerable drop in the value of their portfolio. Opposite of Weak Hands.&#x20;
 
-Difficulty&#x20;
+### Difficulty&#x20;
 
 A measure of the difficulty, and therefore how much computing power is required, to mine a new block in a particular cryptocurrency.&#x20;
 

@@ -63,4 +63,4 @@
 
 ## Glossary
 
-* [Page 1](glossary/page-1.md)
+* [Glossary](glossary/glossary.md)
