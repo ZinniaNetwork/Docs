@@ -828,143 +828,275 @@ Missed License (Zinnia Specific Term)&#x20;
 
 Licenses that have been called but did not receive a reward. This can happen if a license is called to vote, but the wallet that bought the license does not respond or if a miner does not include the vote in the following block.&#x20;
 
-Mobile Wallet A cryptocurrency wallet installed on a mobile device.&#x20;
+Mobile Wallet&#x20;
 
-Moon A term used to describe a continuous upward movement in the price of a cryptocurrency.&#x20;
+A cryptocurrency wallet installed on a mobile device.&#x20;
 
-Multisignature A transaction that can be authorized by more than one private key.
+Moon&#x20;
 
-Network All the nodes involved in the operation of a blockchain.&#x20;
+A term used to describe a continuous upward movement in the price of a cryptocurrency.&#x20;
 
-Network Latency The amount of time it takes for a node on one network to communicate with a node on another network.&#x20;
+Multisignature&#x20;
 
-Network-Enhanced Virtual Machine (NEVM) A combination of the best attributes of the Bitcoin (BTC) and Ethereum (ETH) networks, enabling interoperability and scalability to promote mass adoption.&#x20;
+A transaction that can be authorized by more than one private key.
 
-Newb A person that is new to a community. No-Coiner A person who owns no cryptocurrency and has an overall negative opinion of the technology.
+Network&#x20;
 
-Node An electronic device connected to the network used to validate transactions, broadcast new blocks, and maintain the ledger.&#x20;
+All the nodes involved in the operation of a blockchain.&#x20;
 
-Non-Fungible Token (NFT) A financial security consisting of digital data stored in a blockchain.&#x20;
+Network Latency&#x20;
 
-Nonce Derived from the term “number used once,” it refers to a field in the block header. PoW miners adjust this number to keep the hash of the block lower than or equal to the difficulty target of the network at that time.&#x20;
+The amount of time it takes for a node on one network to communicate with a node on another network.&#x20;
 
-Notarization on Blockchain A function of blockchain technology that allows anyone to timestamp a creation and secure its provenance.\
+Network-Enhanced Virtual Machine (NEVM)&#x20;
 
+A combination of the best attributes of the Bitcoin (BTC) and Ethereum (ETH) networks, enabling interoperability and scalability to promote mass adoption.&#x20;
 
-Off-Chain A transaction processed outside of a blockchain network to increase speed and decrease cost.&#x20;
+Newb&#x20;
 
-Off-Chain Governance A type of blockchain governance where decisions are made away from the primary codebase.&#x20;
+A person that is new to a community. No-Coiner A person who owns no cryptocurrency and has an overall negative opinion of the technology.
 
-On-Chain Transactions recorded on the blockchain itself and distributed between all the users.&#x20;
+Node&#x20;
 
-On-Chain Governance A type of blockchain governance where decisions are made by the primary codebase.&#x20;
+An electronic device connected to the network used to validate transactions, broadcast new blocks, and maintain the ledger.&#x20;
 
-Open Source The sharing of information freely for the good of the community.&#x20;
+Non-Fungible Token (NFT)&#x20;
 
-Oracles Software that finds and verifies information, connecting external systems to a blockchain and providing data to smart contracts enabling execution.&#x20;
+A financial security consisting of digital data stored in a blockchain.&#x20;
 
-Orphan Block A valid block that is not included in the definitive blockchain.&#x20;
+Nonce&#x20;
 
-Orphan Transaction A transaction with missing inputs.&#x20;
+Derived from the term “number used once,” it refers to a field in the block header. PoW miners adjust this number to keep the hash of the block lower than or equal to the difficulty target of the network at that time.&#x20;
 
-Over-the-Counter (OTC) A transaction outside of an exchange, usually peer-to-peer through private trades.
+Notarization on Blockchain&#x20;
 
-Peer-to-Peer (P2P) The decentralized interactions between users of a distributed network.&#x20;
+A function of blockchain technology that allows anyone to timestamp a creation and secure its provenance.
 
-Peer-to-Peer (P2P) Lending The lending of assets without a third-party intermediary.&#x20;
+Off-Chain&#x20;
 
-Peg A value for the rate of exchange between assets that is tied to some other medium of exchange, such as gold or fiat.&#x20;
+A transaction processed outside of a blockchain network to increase speed and decrease cost.&#x20;
 
-Pegged Currency A cryptocurrency whose value is fixed to a traditional asset, such as a fiat currency.&#x20;
+Off-Chain Governance&#x20;
 
-Permissioned Ledger A ledger designed with restrictions, where participants are known and authorization is required before use.&#x20;
+A type of blockchain governance where decisions are made away from the primary codebase.&#x20;
 
-Permissionless A network that no single entity can regulate or control.&#x20;
+On-Chain&#x20;
 
-Ponzi Scheme A form of fraud where profits are paid to early investors using funds gained from new investors.&#x20;
+Transactions recorded on the blockchain itself and distributed between all the users.&#x20;
 
-Post-Mine The creation of new coins following a cryptocurrency’s launch, before public mining is possible.&#x20;
+On-Chain Governance&#x20;
 
-Pre-IDO Tokens offered before an initial DEX offering (IDO) takes place.&#x20;
+A type of blockchain governance where decisions are made by the primary codebase.&#x20;
 
-Pre-Mine The generation of a limited amount of a coin’s initial supply prior to the public launch.&#x20;
+Open Source&#x20;
 
-Pre-Sale The sale of a cryptocurrency to investors before it goes public.&#x20;
+The sharing of information freely for the good of the community.&#x20;
 
-Private Blockchain A blockchain controlled by a single entity.&#x20;
+Oracles&#x20;
 
-Private Key A cryptographic key, known only to the owner, that is used to decipher messages sent using a public key.&#x20;
+Software that finds and verifies information, connecting external systems to a blockchain and providing data to smart contracts enabling execution.&#x20;
 
-Private Passphrase A set of secret words known only to the owner that is often used to secure private keys.&#x20;
+Orphan Block&#x20;
 
-Proof-of-Stake (PoS) Voting A consensus mechanism by which cryptocurrency holders vote to approve blocks confirmed by PoW miners and earn staking rewards.&#x20;
+A valid block that is not included in the definitive blockchain.&#x20;
 
-Proof-of-Work (PoW) A consensus mechanism miners use to prove they have contributed computational power to create a new block.&#x20;
+Orphan Transaction&#x20;
 
-Protocol A set of rules and processes that govern how a blockchain network will operate, usually covering consensus mechanism, transaction validation, and network participation.&#x20;
+A transaction with missing inputs.&#x20;
 
-Pseudonymous The use of a false name to protect one’s true identity, a famous example being Satoshi Nakamoto.&#x20;
+Over-the-Counter (OTC)&#x20;
 
-Public Address The cryptographic hash of a public key used as an address to send payments.&#x20;
+A transaction outside of an exchange, usually peer-to-peer through private trades.
 
-Public Blockchain A blockchain that can be accessed by anyone.&#x20;
+Peer-to-Peer (P2P)&#x20;
 
-Public Key A cryptographic key available to anyone and used to encrypt messages that only the intended recipient can decipher using their private key.&#x20;
+The decentralized interactions between users of a distributed network.&#x20;
 
-Public Sale The last round of an ICO when a cryptocurrency project offers its coin to the public before it’s listed on an exchange.&#x20;
+Peer-to-Peer (P2P) Lending&#x20;
 
-Public-Key Cryptography Algorithmic cryptographic procedures used to scramble data, so it appears randomized.&#x20;
+The lending of assets without a third-party intermediary.&#x20;
 
-Public-Key Infrastructure (PKI) A series of roles, policies, and processes used by a network to create, manage, distribute, use, store, and manage public-key encryption and revoke digital certificates.&#x20;
+Peg&#x20;
 
-Pump and Dump (P\&D) Scheme The use of social media to artificially inflate the value of a cryptocurrency by making false and misleading positive statements before selling to make a profit.\
-\
-QR Code A black-and-white pattern readable by smart devices that contains graphically encoded data.&#x20;
+A value for the rate of exchange between assets that is tied to some other medium of exchange, such as gold or fiat.&#x20;
 
-Quantum Computing A computer that uses quantum mechanics to perform vastly more efficient computations than traditional computers are able to.\
+Pegged Currency&#x20;
 
+A cryptocurrency whose value is fixed to a traditional asset, such as a fiat currency.&#x20;
 
-Rank The relative position of a cryptocurrency by market capitalization.&#x20;
+Permissioned Ledger&#x20;
 
-Ransomware Malware used by hackers to steal or encrypt files and demand a ransom from the owner in exchange for file restoration or decryption.&#x20;
+A ledger designed with restrictions, where participants are known and authorization is required before use.&#x20;
 
-Recovery Phrase A cryptographically derived security code, generated by a wallet, consisting of a set of random words, also known as a “Seed Phrase,” that gives the holder access to the funds within the wallet.&#x20;
+Permissionless&#x20;
 
-REKT Shorthand slang for “wrecked,” describing a bad loss in a trade.&#x20;
+A network that no single entity can regulate or control.&#x20;
 
-Relay Nodes Nodes that assist block-producing nodes communicate by guaranteeing that the authenticity of the core nodes and the blockchain is preserved, even if one or more relays are hacked.&#x20;
+Ponzi Scheme&#x20;
 
-Reorg A process whereby a set of blocks in a blockchain are replaced by a longer set that has more work. The depth of the reorg is the number of blocks replaced. Abbreviation of reorganization.&#x20;
+A form of fraud where profits are paid to early investors using funds gained from new investors.&#x20;
 
-Replay Attack A network security attack where communications between a sender and receiver are intercepted.&#x20;
+Post-Mine&#x20;
 
-Revoked License (Zinnia Specific Term) A Zinnia license that was missed or expired gets revoked, and the ZINN used to buy it becomes spendable again.&#x20;
+The creation of new coins following a cryptocurrency’s launch, before public mining is possible.&#x20;
 
-Roadmap A visual timeline and summary of the direction a cryptocurrency project is taking.&#x20;
+Pre-IDO&#x20;
+
+Tokens offered before an initial DEX offering (IDO) takes place.&#x20;
+
+Pre-Mine&#x20;
+
+The generation of a limited amount of a coin’s initial supply prior to the public launch.&#x20;
+
+Pre-Sale&#x20;
+
+The sale of a cryptocurrency to investors before it goes public.&#x20;
+
+Private Blockchain&#x20;
+
+A blockchain controlled by a single entity.&#x20;
+
+Private Key&#x20;
+
+A cryptographic key, known only to the owner, that is used to decipher messages sent using a public key.&#x20;
+
+Private Passphrase&#x20;
+
+A set of secret words known only to the owner that is often used to secure private keys.&#x20;
+
+Proof-of-Stake (PoS) Voting&#x20;
+
+A consensus mechanism by which cryptocurrency holders vote to approve blocks confirmed by PoW miners and earn staking rewards.&#x20;
+
+Proof-of-Work (PoW)&#x20;
+
+A consensus mechanism miners use to prove they have contributed computational power to create a new block.&#x20;
+
+Protocol&#x20;
+
+A set of rules and processes that govern how a blockchain network will operate, usually covering consensus mechanism, transaction validation, and network participation.&#x20;
+
+Pseudonymous&#x20;
+
+The use of a false name to protect one’s true identity, a famous example being Satoshi Nakamoto.&#x20;
+
+Public Address&#x20;
+
+The cryptographic hash of a public key used as an address to send payments.&#x20;
+
+Public Blockchain&#x20;
+
+A blockchain that can be accessed by anyone.&#x20;
+
+Public Key&#x20;
+
+A cryptographic key available to anyone and used to encrypt messages that only the intended recipient can decipher using their private key.&#x20;
+
+Public Sale&#x20;
+
+The last round of an ICO when a cryptocurrency project offers its coin to the public before it’s listed on an exchange.&#x20;
+
+Public-Key Cryptography&#x20;
+
+Algorithmic cryptographic procedures used to scramble data, so it appears randomized.&#x20;
+
+Public-Key Infrastructure (PKI)&#x20;
+
+A series of roles, policies, and processes used by a network to create, manage, distribute, use, store, and manage public-key encryption and revoke digital certificates.&#x20;
+
+Pump and Dump (P\&D) Scheme&#x20;
+
+The use of social media to artificially inflate the value of a cryptocurrency by making false and misleading positive statements before selling to make a profit.
+
+QR Code&#x20;
+
+A black-and-white pattern readable by smart devices that contains graphically encoded data.&#x20;
+
+Quantum Computing&#x20;
+
+A computer that uses quantum mechanics to perform vastly more efficient computations than traditional computers are able to.
+
+Rank&#x20;
+
+The relative position of a cryptocurrency by market capitalization.&#x20;
+
+Ransomware&#x20;
+
+Malware used by hackers to steal or encrypt files and demand a ransom from the owner in exchange for file restoration or decryption.&#x20;
+
+Recovery Phrase&#x20;
+
+A cryptographically derived security code, generated by a wallet, consisting of a set of random words, also known as a “Seed Phrase,” that gives the holder access to the funds within the wallet.&#x20;
+
+REKT&#x20;
+
+Shorthand slang for “wrecked,” describing a bad loss in a trade.&#x20;
+
+Relay Nodes&#x20;
+
+Nodes that assist block-producing nodes communicate by guaranteeing that the authenticity of the core nodes and the blockchain is preserved, even if one or more relays are hacked.&#x20;
+
+Reorg&#x20;
+
+A process whereby a set of blocks in a blockchain are replaced by a longer set that has more work. The depth of the reorg is the number of blocks replaced. Abbreviation of reorganization.&#x20;
+
+Replay Attack&#x20;
+
+A network security attack where communications between a sender and receiver are intercepted.&#x20;
+
+Revoked License (Zinnia Specific Term)&#x20;
+
+A Zinnia license that was missed or expired gets revoked, and the ZINN used to buy it becomes spendable again.&#x20;
+
+Roadmap&#x20;
+
+A visual timeline and summary of the direction a cryptocurrency project is taking.&#x20;
 
 ROI (Return On Investment) The ratio between the net profit and cost of investing.&#x20;
 
-Rug Pull Another scam, this time it describes a situation where developers abandon a project and remove all trading liquidity, therefore, taking all their investors' money.&#x20;
+Rug Pull&#x20;
 
-Rule Change Interval (RCI)(Zinnia Specific Term) A time period during which Zinnia license holders can vote on consensus rule changes.&#x20;
+Another scam, this time it describes a situation where developers abandon a project and remove all trading liquidity, therefore, taking all their investors' money.&#x20;
 
-Rule Change Proposal A proposal to change the consensus rules of a blockchain.&#x20;
+Rule Change Interval (RCI)(Zinnia Specific Term)&#x20;
 
-Rust Rust is a multi-paradigm programming language, similar to C++.
+A time period during which Zinnia license holders can vote on consensus rule changes.&#x20;
 
-Satoshi (SATS) 0.00000001 BTC is 1 Satoshi, the smallest unit of Bitcoin.&#x20;
+Rule Change Proposal&#x20;
 
-Satoshi Nakamoto The creator of Bitcoin.&#x20;
+A proposal to change the consensus rules of a blockchain.&#x20;
 
-Scamcoin A coin that has been created as a "get rich quick scheme” and has no other benefit.&#x20;
+Rust&#x20;
 
-Script A list of commands to be executed by a computer program.&#x20;
+Rust is a multi-paradigm programming language, similar to C++.
 
-Scrypt An alternative Proof-of-Work (PoW) algorithm to SHA-256 used in Bitcoin mining.&#x20;
+Satoshi (SATS)&#x20;
 
-Securities and Exchange Commission (SEC) An independent United States federal government regulatory agency responsible for protecting investors and maintaining fair and orderly functioning of the securities markets.&#x20;
+0.00000001 BTC is 1 Satoshi, the smallest unit of Bitcoin.&#x20;
 
-Seed Phrase A cryptographically derived security code, generated by a wallet, consisting of a set of random words, also known as a “Recovery Phrase,” that gives the holder access to the funds within the wallet.&#x20;
+Satoshi Nakamoto&#x20;
+
+The creator of Bitcoin.&#x20;
+
+Scamcoin&#x20;
+
+A coin that has been created as a "get rich quick scheme” and has no other benefit.&#x20;
+
+Script&#x20;
+
+A list of commands to be executed by a computer program.&#x20;
+
+Scrypt&#x20;
+
+An alternative Proof-of-Work (PoW) algorithm to SHA-256 used in Bitcoin mining.&#x20;
+
+Securities and Exchange Commission (SEC)&#x20;
+
+An independent United States federal government regulatory agency responsible for protecting investors and maintaining fair and orderly functioning of the securities markets.&#x20;
+
+Seed Phrase&#x20;
+
+A cryptographically derived security code, generated by a wallet, consisting of a set of random words, also known as a “Recovery Phrase,” that gives the holder access to the funds within the wallet.&#x20;
 
 SHA-256 A cryptographic hash function that generates a 256-bit value to represent data, famous for its use in Bitcoin Proof-of-Work (PoW).&#x20;
 
@@ -974,89 +1106,173 @@ Sharding The process of creating shards.&#x20;
 
 Shitcoin A coin with no apparent potential value or usage.&#x20;
 
-Short A trading technique where a cryptocurrency is borrowed and sold with the expectation that the price will decline, once the price has declined, the same cryptocurrency is bought and returned to the lender. The trader makes the difference between the two prices in profit.&#x20;
+Short&#x20;
 
-Signature A cryptographic mechanism to prove that a private key was used to validate or authorize specific data.&#x20;
+A trading technique where a cryptocurrency is borrowed and sold with the expectation that the price will decline, once the price has declined, the same cryptocurrency is bought and returned to the lender. The trader makes the difference between the two prices in profit.&#x20;
 
-Simnet A simulation network that a developer can use to mine new blocks locally at will for testing purposes.&#x20;
+Signature&#x20;
 
-Simplified Payment Verification (SPV) A wallet that can verify payments using only the blocks related to the addresses owned by the wallet rather than downloading the entire blockchain enabling wallets to run on less specialized hardware.&#x20;
+A cryptographic mechanism to prove that a private key was used to validate or authorize specific data.&#x20;
 
-Smart Contract A self-executing decentralized contract with the terms of the agreement between parties being directly written into a blockchain.&#x20;
+Simnet&#x20;
 
-Social Engineering The use of technology and media to deceive and manipulate the public into acting in a predetermined manner.&#x20;
+A simulation network that a developer can use to mine new blocks locally at will for testing purposes.&#x20;
 
-Soft Fork When old nodes don’t follow a rule change and newly upgraded nodes do, the old nodes may accept data that the new nodes reject, causing a fork in the blockchain. (see also Hard Fork)&#x20;
+Simplified Payment Verification (SPV)&#x20;
 
-Software Stack A group of independent software solutions that combine to provide a specific task.&#x20;
+A wallet that can verify payments using only the blocks related to the addresses owned by the wallet rather than downloading the entire blockchain enabling wallets to run on less specialized hardware.&#x20;
 
-Software Wallet A wallet embedded in an application that allows users to complete cryptocurrency transactions.&#x20;
+Smart Contract&#x20;
 
-Solidity The programming language used for developing smart contracts by Ethereum.&#x20;
+A self-executing decentralized contract with the terms of the agreement between parties being directly written into a blockchain.&#x20;
 
-Source Code Computer code that dictates, through a list of instructions and statements, how software will operate.&#x20;
+Social Engineering&#x20;
 
-SPAC (Special Purpose Acquisition Company) A company formed by investors to publicly list an organization and avoid the bureaucracy of a traditional IPO.&#x20;
+The use of technology and media to deceive and manipulate the public into acting in a predetermined manner.&#x20;
 
-Spyware Malicious software that records every activity on an electronic device.&#x20;
+Soft Fork&#x20;
 
-Stablecoin A cryptocurrency usually pegged to fiat that offers low volatility.&#x20;
+When old nodes don’t follow a rule change and newly upgraded nodes do, the old nodes may accept data that the new nodes reject, causing a fork in the blockchain. (see also Hard Fork)&#x20;
+
+Software Stack&#x20;
+
+A group of independent software solutions that combine to provide a specific task.&#x20;
+
+Software Wallet&#x20;
+
+A wallet embedded in an application that allows users to complete cryptocurrency transactions.&#x20;
+
+Solidity&#x20;
+
+The programming language used for developing smart contracts by Ethereum.&#x20;
+
+Source Code&#x20;
+
+Computer code that dictates, through a list of instructions and statements, how software will operate.&#x20;
+
+SPAC (Special Purpose Acquisition Company)&#x20;
+
+A company formed by investors to publicly list an organization and avoid the bureaucracy of a traditional IPO.&#x20;
+
+Spyware&#x20;
+
+Malicious software that records every activity on an electronic device.&#x20;
+
+Stablecoin&#x20;
+
+A cryptocurrency usually pegged to fiat that offers low volatility.&#x20;
 
 Staking Time-locking a cryptocurrency in exchange for block rewards or interest.&#x20;
 
-Store of Value A cryptocurrency that’s function is to retain its value allowing it to be saved, retrieved, and exchanged in the future without losing any purchasing power.
+Store of Value&#x20;
 
-Testnet A parallel network for testing purposes.&#x20;
+A cryptocurrency that’s function is to retain its value allowing it to be saved, retrieved, and exchanged in the future without losing any purchasing power.
 
-Tor (The Onion Router) Free, open-source software that allows gives users greater privacy and security when communicating over a network.&#x20;
+Testnet&#x20;
 
-Ticker An abbreviation, usually 3-4 letters, that is used to uniquely identify a cryptocurrency.&#x20;
+A parallel network for testing purposes.&#x20;
 
-Ticker Symbol A symbol used to uniquely identify a cryptocurrency.&#x20;
+Tor (The Onion Router)&#x20;
 
-Timestamp An official record of when a specific transaction occurred.&#x20;
+Free, open-source software that allows gives users greater privacy and security when communicating over a network.&#x20;
 
-Token A layer 2 cryptocurrency designed to provide a specific utility.&#x20;
+Ticker&#x20;
 
-Token Generation Event (TGE) The time at which a token is issued.&#x20;
+An abbreviation, usually 3-4 letters, that is used to uniquely identify a cryptocurrency.&#x20;
 
-Token Issuance The process of creating new tokens and adding them to the total supply of a cryptocurrency.&#x20;
+Ticker Symbol&#x20;
 
-Token Lockup A time period during which cryptocurrency tokens cannot be exchanged or traded.&#x20;
+A symbol used to uniquely identify a cryptocurrency.&#x20;
 
-Token Sale The initial offering of a cryptocurrency token to a private pool of investors before it officially goes on the market.&#x20;
+Timestamp&#x20;
 
-Token Standard Rules that a smart contract must respect to remain compatible with common standards.&#x20;
+An official record of when a specific transaction occurred.&#x20;
 
-Token Swap Either; The exchange of a certain amount of one token for another between users facilitated by a special exchange service. Or; The migration of a token built on top of one blockchain platform to a different blockchain.&#x20;
+Token&#x20;
 
-Tokenize The process by which tangible assets are turned into something of digital value with the benefit of being easily divisible.&#x20;
+A layer 2 cryptocurrency designed to provide a specific utility.&#x20;
 
-Tokenomics A set of rules that governs a cryptocurrency's issuance and supply.&#x20;
+Token Generation Event (TGE)&#x20;
 
-Total Supply The total amount of coins currently in existence.&#x20;
+The time at which a token is issued.&#x20;
 
-Trading Volume The total number of coins that have been exchanged during trading hours of one day.&#x20;
+Token Issuance&#x20;
 
-Transaction (TX) The process of exchanging assets on a blockchain.&#x20;
+The process of creating new tokens and adding them to the total supply of a cryptocurrency.&#x20;
 
-Transaction Fees A fee paid to have your transaction included in a block.&#x20;
+Token Lockup&#x20;
 
-Treasury A storage of funds for use in the development of a project.&#x20;
+A time period during which cryptocurrency tokens cannot be exchanged or traded.&#x20;
 
-Two-Factor Authentication (2FA) A security measure that requires two different forms of authentication before access is granted.
+Token Sale&#x20;
 
-Unmined License Immediately after a license is bought, it is unmined until the transaction is included in a block.&#x20;
+The initial offering of a cryptocurrency token to a private pool of investors before it officially goes on the market.&#x20;
 
-Unspent Transaction Output (UTXO) A technical term for the amount of cryptocurrency remaining after a transaction.&#x20;
+Token Standard&#x20;
 
-Use Case A specific situation in which a project could be used.&#x20;
+Rules that a smart contract must respect to remain compatible with common standards.&#x20;
 
-User Interface (UI) The means by which a user interacts with a website or application using a digital device.&#x20;
+Token Swap&#x20;
 
-Utility Token A token that specifically helps people use something.
+Either;&#x20;
 
-Validator A participant on a Proof-of-Stake (PoS) blockchain, involved in validating blocks for rewards.&#x20;
+The exchange of a certain amount of one token for another between users facilitated by a special exchange service. Or; The migration of a token built on top of one blockchain platform to a different blockchain.&#x20;
+
+Tokenize&#x20;
+
+The process by which tangible assets are turned into something of digital value with the benefit of being easily divisible.&#x20;
+
+Tokenomics&#x20;
+
+A set of rules that governs a cryptocurrency's issuance and supply.&#x20;
+
+Total Supply&#x20;
+
+The total amount of coins currently in existence.&#x20;
+
+Trading Volume&#x20;
+
+The total number of coins that have been exchanged during trading hours of one day.&#x20;
+
+Transaction (TX)&#x20;
+
+The process of exchanging assets on a blockchain.&#x20;
+
+Transaction Fees&#x20;
+
+A fee paid to have your transaction included in a block.&#x20;
+
+Treasury&#x20;
+
+A storage of funds for use in the development of a project.&#x20;
+
+Two-Factor Authentication (2FA)&#x20;
+
+A security measure that requires two different forms of authentication before access is granted.
+
+Unmined&#x20;
+
+License Immediately after a license is bought, it is unmined until the transaction is included in a block.&#x20;
+
+Unspent Transaction Output (UTXO)&#x20;
+
+A technical term for the amount of cryptocurrency remaining after a transaction.&#x20;
+
+Use Case&#x20;
+
+A specific situation in which a project could be used.&#x20;
+
+User Interface (UI)&#x20;
+
+The means by which a user interacts with a website or application using a digital device.&#x20;
+
+Utility Token&#x20;
+
+A token that specifically helps people use something.
+
+Validator&#x20;
+
+A participant on a Proof-of-Stake (PoS) blockchain, involved in validating blocks for rewards.&#x20;
 
 Vanity Address A cryptocurrency public address with letters and numbers custom picked by its owner.&#x20;
 
