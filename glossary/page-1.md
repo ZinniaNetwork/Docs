@@ -351,7 +351,97 @@ Java A general-purpose, class-based as well as object-oriented programming langu
 JavaScript An advanced programming language mostly used in web-based applications.&#x20;
 
 JOMO (Joy Of Missing Out) A feeling of contentment with one’s own pursuits and activities, without worrying over the possibility of missing out on what others may be doing. The opposite state of FOMO.\
-\
+
+
+Know Your Customer (KYC) Identity checking process that cryptocurrency exchanges and trading platforms need to complete to verify the identity of customers.
+
+Lambo The term is used as a means of expressing excitement that cryptocurrency is going to make the user extremely wealthy. Short for Lamborghini, the Italian supercar brand.&#x20;
+
+Layer 1 The type of underlying blockchain architecture of a base network such as Bitcoin or Ethereum where the blockchain can validate and finalize transactions independently.&#x20;
+
+Layer 2 A secondary blockchain architecture that is built using an existing Layer 1 blockchain with the aim of solving scaling difficulties, creating utility, improving transaction speed, or other such aspects that the Layer 1 blockchain is unable to facilitate.&#x20;
+
+Leverage The use of borrowed capital to increase trading power.&#x20;
+
+License (Zinnia Specific Term) Zinnia holders can time-lock ZINN in exchange for a license. Licenses bestow voting rights to the holder, allowing them to vote on Zinnnia governance decisions.&#x20;
+
+License Pool (Zinnia Specific Term) The pool of live licenses that are available to be called to vote.&#x20;
+
+License Price (Zinnia Specific Term) The amount of ZINN a user must time-lock to buy a license.&#x20;
+
+Light Node Typically a downloaded wallet that contains only specific parts of a blockchain such as headers and needs to be connected to a full node to further validate information. An abbreviation of Lightweight Node.&#x20;
+
+Lightning Network A second-layer transaction mechanism using channels between two parties to process transactions more quickly, designed to solve Bitcoin’s scalability problem.
+
+Limit Order/Limit Buy/Limit Sell Types of orders used to purchase or sell a cryptocurrency at a specified or better price.&#x20;
+
+Liquidation The conversion of cryptocurrency for fiat.&#x20;
+
+Liquidity The efficiency or ease with which a cryptocurrency can be traded without impacting its market value.&#x20;
+
+Litepaper A document that gives investors an overview of the concept, technical information, and roadmap for a cryptocurrency project.&#x20;
+
+Live License (Zinnia Specific Term) Licenses that are waiting to be called to vote.&#x20;
+
+Long Purchasing cryptocurrency with the plan of selling it at a higher price later.
+
+Mainnet A term used to differentiate the main network from the testnet.&#x20;
+
+Malware Malicious software used to illegally access and compromise a computer, network, or server.&#x20;
+
+Man-in-the-Middle Attack (MITM) A general term for a cyberattack where a perpetrator positions themself between two parties for nefarious reasons.&#x20;
+
+Masternodes Similar to a full node, but with extra functions such as participating in governance and voting, and anonymizing and clearing transactions.&#x20;
+
+Max Supply The maximum number of coins that will ever exist in the lifetime of a cryptocurrency.&#x20;
+
+Meatspace The physical world, as opposed to cyberspace or metaverse.&#x20;
+
+Meme Economy An online culture where memes are addressed as if they were commodities with different prices.&#x20;
+
+Memecoin A cryptocurrency token created as a joke or meme.&#x20;
+
+Mempool Transactions waiting to be mined.&#x20;
+
+Merkle Tree A structure in cryptography shaped like a tree where every leaf node is labeled with the hash of a data block and every non-leaf node is labeled with the hash value of the titles of its child nodes. Because each change in the structure has an upwards knock-on effect, verification can be achieved by examining the uppermost hash.&#x20;
+
+Metaverse A digital universe containing aspects of the real world, such as live interactions, economies, and real estate.&#x20;
+
+Miners Cryptocurrency users that help secure a network by successfully validating blocks via the Proof-of-Work (PoW) consensus method.&#x20;
+
+Mining Difficulty A measure of how difficult it is to find the right hash for the next block.&#x20;
+
+Mining Farm A term for a group of miners who mine together, also known as a mining pool.&#x20;
+
+Mining Reward The income that miners receive after finding and validating a block.&#x20;
+
+Mining Rig Equipment used for mining cryptocurrency.&#x20;
+
+Minting The process of generating new coins using the Proof-of-Stake (PoS) consensus mechanism.&#x20;
+
+Missed License (Zinnia Specific Term) Licenses that have been called but did not receive a reward. This can happen if a license is called to vote, but the wallet that bought the license does not respond or if a miner does not include the vote in the following block.&#x20;
+
+Mobile Wallet A cryptocurrency wallet installed on a mobile device.&#x20;
+
+Moon A term used to describe a continuous upward movement in the price of a cryptocurrency.&#x20;
+
+Multisignature A transaction that can be authorized by more than one private key.
+
+Network All the nodes involved in the operation of a blockchain.&#x20;
+
+Network Latency The amount of time it takes for a node on one network to communicate with a node on another network.&#x20;
+
+Network-Enhanced Virtual Machine (NEVM) A combination of the best attributes of the Bitcoin (BTC) and Ethereum (ETH) networks, enabling interoperability and scalability to promote mass adoption.&#x20;
+
+Newb A person that is new to a community. No-Coiner A person who owns no cryptocurrency and has an overall negative opinion of the technology.
+
+Node An electronic device connected to the network used to validate transactions, broadcast new blocks, and maintain the ledger.&#x20;
+
+Non-Fungible Token (NFT) A financial security consisting of digital data stored in a blockchain.&#x20;
+
+Nonce Derived from the term “number used once,” it refers to a field in the block header. PoW miners adjust this number to keep the hash of the block lower than or equal to the difficulty target of the network at that time.&#x20;
+
+Notarization on Blockchain A function of blockchain technology that allows anyone to timestamp a creation and secure its provenance.\
 \
 \
 \
