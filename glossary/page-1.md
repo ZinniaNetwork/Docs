@@ -637,7 +637,67 @@ Transaction Fees A fee paid to have your transaction included in a block.&#x20;
 
 Treasury A storage of funds for use in the development of a project.&#x20;
 
-Two-Factor Authentication (2FA) A security measure that requires two different forms of authentication before access is granted.\
+Two-Factor Authentication (2FA) A security measure that requires two different forms of authentication before access is granted.
+
+Unmined License Immediately after a license is bought, it is unmined until the transaction is included in a block.&#x20;
+
+Unspent Transaction Output (UTXO) A technical term for the amount of cryptocurrency remaining after a transaction.&#x20;
+
+Use Case A specific situation in which a project could be used.&#x20;
+
+User Interface (UI) The means by which a user interacts with a website or application using a digital device.&#x20;
+
+Utility Token A token that specifically helps people use something.
+
+Validator A participant on a Proof-of-Stake (PoS) blockchain, involved in validating blocks for rewards.&#x20;
+
+Vanity Address A cryptocurrency public address with letters and numbers custom picked by its owner.&#x20;
+
+Venture Capital Private equity for small, start-up projects that are considered to have high growth potential.&#x20;
+
+Verification Code An alphanumeric security measure designed to protect users and online services from bots and hackers.&#x20;
+
+Vesting Period A period of time where the sale of a coin or token is restricted.&#x20;
+
+Virgin Bitcoin A bitcoin that has never been spent.&#x20;
+
+Virtual Private Network (VPN) Technology that creates a safe and encrypted network via a public internet connection, providing the user privacy and anonymity.&#x20;
+
+Volatility A reference to how much a cryptocurrency has moved up or down in value over a period of time.&#x20;
+
+Volume How many times a cryptocurrency has been traded over a set period, such as the past 24hrs.&#x20;
+
+Voted License A Zinnia license that has been called to vote and responded, releasing the ZINN locked to buy the license.&#x20;
+
+Voters People who buy licenses and use them to vote.&#x20;
+
+Voting Service Provider (VSP) A non-custodial service used to vote on behalf of a license, used to reduce the chance of missed licenses by utilizing geographically distributed servers.
+
+Wallet A file that stores your private keys allowing you to send, receive, secure and spend cryptocurrency.&#x20;
+
+Wash Trade Where artificial activity in the marketplace is created by selling and buying the same cryptocurrencies simultaneously allowing manipulation of the market.&#x20;
+
+Watch-Only A wallet that doesn’t store or use private keys allowing the user to view and receive cryptocurrency but not spend it.
+
+Weak Hands Crypto community slang for a person who is prone to panic selling at the first sign of a drop in the value of their portfolio.&#x20;
+
+Web 1.0 The early version of the internet created in the 1980s and primarily used as a source of information.&#x20;
+
+Web 2.0 The current version of the internet dominated by the big four with the addition of social media, content creation and cloud-based storage.&#x20;
+
+Web 3.0 The next generation of the internet will be decentralized with AI-driven services and the ability to own your content.&#x20;
+
+Whale Crypto community slang for a person who has vast amounts of crypto, especially those with enough funds to manipulate the market.&#x20;
+
+Whitepaper A detailed document that gives investors an explanation of the concept, technical specifications, and roadmap for a cryptocurrency project. Similar to a Litepaper but more detailed and advanced in its content.&#x20;
+
+Work The total combined number of hashes calculated by PoW miners to produce the blockchain.
+
+Zero Knowledge Proof The ability to provide evidence that a transaction occurred without revealing the private details of that transaction by using cryptography.&#x20;
+
+Zinnia A next-generation smart contract enabled hybrid POW/POS public blockchain protocol governed by its participants through its Decentralised Autonomous Organisation (DAO).&#x20;
+
+Zinnia Change Proposal (ZCP)(Zinnia Specific Term) A design document that describes potential protocol or consensus changes to Zinnia.\
 \
 \
 \
