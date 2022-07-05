@@ -870,11 +870,11 @@ A term used to describe a continuous upward movement in the price of a cryptocur
 
 A transaction that can be authorized by more than one private key.
 
+## N
+
 ### Network&#x20;
 
 All the nodes involved in the operation of a blockchain.&#x20;
-
-## N
 
 ### Network Latency&#x20;
 
