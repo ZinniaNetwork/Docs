@@ -1,4 +1,5 @@
 ---
+description: ISSUANCE & SUPPLY
 cover: ../.gitbook/assets/Hybrid PoW-PoS.png
 coverY: 0
 ---

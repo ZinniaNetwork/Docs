@@ -1,4 +1,5 @@
 ---
+description: WELCOME TO ZINNIA
 cover: ../.gitbook/assets/Lightbulb.png
 coverY: 0
 ---

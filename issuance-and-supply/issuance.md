@@ -1,4 +1,5 @@
 ---
+description: ISSUANCE & SUPPLY
 cover: ../.gitbook/assets/Graph.png
 coverY: 0
 ---

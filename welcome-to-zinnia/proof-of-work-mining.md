@@ -1,4 +1,5 @@
 ---
+description: WELCOME TO ZINNIA
 cover: ../.gitbook/assets/Proof-of-Work (PoW) (1).png
 coverY: 0
 ---
