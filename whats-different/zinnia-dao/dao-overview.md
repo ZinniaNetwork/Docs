@@ -59,7 +59,7 @@ License holders who do not physically vote during a voting period will automatic
 
 ## How Many Licenses can be Issued?
 
-Around 40,000 licenses will be available on a rolling basis. Further details of the network's ideal number of licenses will be available when zinnia technical documentation is made public.
+Around 80,000 licenses will be available on a rolling basis. Further details of the network's ideal number of licenses will be available when zinnia technical documentation is made public.
 
 ## What about Rewards?
 
