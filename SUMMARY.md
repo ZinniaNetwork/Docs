@@ -40,7 +40,6 @@
 * [Foreword](whats-different/foreword.md)
 * [Fees](whats-different/fees.md)
 * [Hybrid PoW/PoS](whats-different/hybrid-pow-pos.md)
-* [Z-2122](whats-different/z-2122.md)
 * [Functional NFTs](whats-different/functional-nfts.md)
 * [Ecosystem Development](whats-different/ecosystem-development.md)
 * [Project Friendly](whats-different/project-friendly.md)
